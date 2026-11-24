@@ -1,0 +1,723 @@
+{
+ "asf01bwing-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   67,
+   28.1
+  ]
+ },
+ "attackshuttle-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   44.7,
+   28.2
+  ]
+ },
+ "auzituckgunship-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   55.4,
+   31.6
+  ]
+ },
+ "belbulab22starfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   30.7,
+   19.8
+  ]
+ },
+ "btanr2ywing-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   65.2,
+   28.3
+  ]
+ },
+ "btla4ywing-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   69.7,
+   35.5
+  ]
+ },
+ "btlbywing-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   71.2,
+   30.8
+  ]
+ },
+ "clonez95headhunter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   63,
+   54.6
+  ]
+ },
+ "delta7aethersprite-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   30.1,
+   14.6
+  ]
+ },
+ "droidtrifighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   26.4,
+   16.4
+  ]
+ },
+ "escapecraft-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   42.5,
+   31.2
+  ]
+ },
+ "eta2actis-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   24.6,
+   20.8
+  ]
+ },
+ "ewing-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   45,
+   29.2
+  ]
+ },
+ "fangfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   52,
+   46.7
+  ]
+ },
+ "fireball-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   37.5,
+   35.5
+  ]
+ },
+ "hmpdroidgunship-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   42.2,
+   38.6
+  ]
+ },
+ "hwk290lightfreighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   60.6,
+   52.8
+  ]
+ },
+ "hyenaclassdroidbomber-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   44.8,
+   43.4
+  ]
+ },
+ "kihraxzfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   57.1,
+   44.4
+  ]
+ },
+ "m3ainterceptor-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   39,
+   37
+  ]
+ },
+ "modifiedtielnfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   41.2,
+   33.9
+  ]
+ },
+ "nabooroyaln1starfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   51,
+   27.6
+  ]
+ },
+ "nantexclassstarfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   41.2,
+   10.1
+  ]
+ },
+ "nimbusclassvwing-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   27.4,
+   19.9
+  ]
+ },
+ "quadrijettransferspacetug-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   54.6,
+   37.7
+  ]
+ },
+ "resistancetransport-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   71.8,
+   36.3
+  ]
+ },
+ "resistancetransportpod-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   22.8,
+   14.6
+  ]
+ },
+ "rogueclassstarfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   56.3,
+   55.9
+  ]
+ },
+ "rz1awing-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   34,
+   22.4
+  ]
+ },
+ "rz2awing-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   35.2,
+   21.2
+  ]
+ },
+ "sheathipedeclassshuttle-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   40.4,
+   20.5
+  ]
+ },
+ "starviperclassattackplatform-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   63,
+   43
+  ]
+ },
+ "t65xwing-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   43.6,
+   30.7
+  ]
+ },
+ "t70xwing-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   41.9,
+   27.9
+  ]
+ },
+ "tieadvancedv1-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   29.3,
+   26.6
+  ]
+ },
+ "tieadvancedx1-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   40.3,
+   34.5
+  ]
+ },
+ "tieagaggressor-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   40.3,
+   34.5
+  ]
+ },
+ "tiebainterceptor-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   42.4,
+   31.1
+  ]
+ },
+ "tiededefender-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   56.4,
+   48.9
+  ]
+ },
+ "tiefofighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   78.3,
+   40.7
+  ]
+ },
+ "tieininterceptor-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   40.6,
+   30.3
+  ]
+ },
+ "tielnfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   41.2,
+   36.6
+  ]
+ },
+ "tiesabomber-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   49.9,
+   44.2
+  ]
+ },
+ "tiesebomber-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   56.1,
+   53.3
+  ]
+ },
+ "tiesffighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   41.4,
+   36.8
+  ]
+ },
+ "tieskstriker-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   58.1,
+   39
+  ]
+ },
+ "tievnsilencer-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   62.3,
+   29.1
+  ]
+ },
+ "tiewiwhispermodifiedinterceptor-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   64.3,
+   24.6
+  ]
+ },
+ "v19torrentstarfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   47.1,
+   27.9
+  ]
+ },
+ "vultureclassdroidfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   31.6,
+   30.9
+  ]
+ },
+ "z95af4headhunter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   43,
+   32.2
+  ]
+ },
+ "aggressorassaultfighter-top.png": {
+  "win_mm": 134,
+  "fp_mm": [
+   88.7,
+   70
+  ]
+ },
+ "arc170starfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   82.2,
+   51.2
+  ]
+ },
+ "btls8kwing-top.png": {
+  "win_mm": 158,
+  "fp_mm": [
+   105,
+   68.2
+  ]
+ },
+ "firesprayclasspatrolcraft-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   79.8,
+   76.9
+  ]
+ },
+ "g1astarfighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   63.1,
+   29
+  ]
+ },
+ "laatigunship-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   52,
+   47.5
+  ]
+ },
+ "m12lkimogilafighter-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   56.8,
+   56.3
+  ]
+ },
+ "scurrgh6bomber-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   69.8,
+   66.6
+  ]
+ },
+ "st70assaultship-top.png": {
+  "win_mm": 140,
+  "fp_mm": [
+   93.3,
+   67.4
+  ]
+ },
+ "tiecapunisher-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   64.8,
+   57.7
+  ]
+ },
+ "tierbheavy-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   56.8,
+   52.5
+  ]
+ },
+ "tierereaper-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   83.6,
+   56.2
+  ]
+ },
+ "ut60duwing-top.png": {
+  "win_mm": 158,
+  "fp_mm": [
+   105.1,
+   36.6
+  ]
+ },
+ "xiclasslightshuttle-top.png": {
+  "win_mm": 151,
+  "fp_mm": [
+   100.1,
+   80.1
+  ]
+ },
+ "customizedyt1300lightfreighter-top.png": {
+  "win_mm": 220,
+  "fp_mm": [
+   152.8,
+   97.3
+  ]
+ },
+ "gauntletfighter-top.png": {
+  "win_mm": 220,
+  "fp_mm": [
+   161.1,
+   47.2
+  ]
+ },
+ "jumpmaster5000-top.png": {
+  "win_mm": 130,
+  "fp_mm": [
+   86.5,
+   82.3
+  ]
+ },
+ "lambdaclasst4ashuttle-top.png": {
+  "win_mm": 187,
+  "fp_mm": [
+   124.5,
+   121.2
+  ]
+ },
+ "lancerclasspursuitcraft-top.png": {
+  "win_mm": 156,
+  "fp_mm": [
+   103.7,
+   101.1
+  ]
+ },
+ "mg100starfortress-top.png": {
+  "win_mm": 144,
+  "fp_mm": [
+   95.5,
+   70.3
+  ]
+ },
+ "modifiedyt1300lightfreighter-top.png": {
+  "win_mm": 197,
+  "fp_mm": [
+   131.2,
+   95.3
+  ]
+ },
+ "scavengedyt1300lightfreighter-top.png": {
+  "win_mm": 197,
+  "fp_mm": [
+   131.2,
+   95.3
+  ]
+ },
+ "sithinfiltrator-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   79.6,
+   53.8
+  ]
+ },
+ "upsilonclasscommandshuttle-top.png": {
+  "win_mm": 220,
+  "fp_mm": [
+   187.7,
+   122.7
+  ]
+ },
+ "vcx100lightfreighter-top.png": {
+  "win_mm": 220,
+  "fp_mm": [
+   168.8,
+   131.6
+  ]
+ },
+ "vt49decimator-top.png": {
+  "win_mm": 176,
+  "fp_mm": [
+   117,
+   78.3
+  ]
+ },
+ "yt2400lightfreighter-top.png": {
+  "win_mm": 147,
+  "fp_mm": [
+   97.7,
+   68.2
+  ]
+ },
+ "yv666lightfreighter-top.png": {
+  "win_mm": 195,
+  "fp_mm": [
+   129.4,
+   91.5
+  ]
+ },
+ "cr90corelliancorvette-top.png": {
+  "win_mm": 220,
+  "fp_mm": [
+   322.6,
+   106.3
+  ]
+ },
+ "croccruiser-top.png": {
+  "win_mm": 220,
+  "fp_mm": [
+   296.4,
+   104
+  ]
+ },
+ "gozanticlasscruiser-top.png": {
+  "win_mm": 220,
+  "fp_mm": [
+   286.1,
+   132.4
+  ]
+ },
+ "gr75mediumtransport-top.png": {
+  "win_mm": 220,
+  "fp_mm": [
+   233,
+   79.8
+  ]
+ },
+ "raiderclasscorvette-top.png": {
+  "win_mm": 220,
+  "fp_mm": [
+   284.6,
+   114.3
+  ]
+ },
+ "tridentclassassaultship-top.png": {
+  "win_mm": 220,
+  "fp_mm": [
+   324.2,
+   106.5
+  ]
+ },
+ "t65xwing-lukeskywalker-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   43.6,
+   30.7
+  ]
+ },
+ "t65xwing-wedge-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   43.6,
+   30.7
+  ]
+ },
+ "t65xwing-red-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   43.6,
+   30.7
+  ]
+ },
+ "delta7aethersprite-macewindu-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   30.1,
+   14.6
+  ]
+ },
+ "delta7aethersprite-anakinskywalker-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   30.1,
+   14.6
+  ]
+ },
+ "delta7aethersprite-plokoon-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   30.1,
+   14.6
+  ]
+ },
+ "delta7aethersprite-obiwankenobi-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   30.1,
+   14.6
+  ]
+ },
+ "clonez95headhunter-black-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   63,
+   54.6
+  ]
+ },
+ "clonez95headhunter-blue-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   63,
+   54.6
+  ]
+ },
+ "rz1awing-arvelcrynyd-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   34,
+   22.4
+  ]
+ },
+ "rz1awing-jakefarrell-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   34,
+   22.4
+  ]
+ },
+ "rz1awing-sabinewren-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   34,
+   22.4
+  ]
+ },
+ "rz2awing-green-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   35.2,
+   21.2
+  ]
+ },
+ "rz2awing-orange-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   35.2,
+   21.2
+  ]
+ },
+ "rz2awing-red-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   35.2,
+   21.2
+  ]
+ },
+ "tieininterceptor-grey-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   40.6,
+   30.3
+  ]
+ },
+ "tieininterceptor-red-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   40.6,
+   30.3
+  ]
+ },
+ "tieadvancedx1-grey-top.png": {
+  "win_mm": 128,
+  "fp_mm": [
+   40.3,
+   34.5
+  ]
+ }
+}

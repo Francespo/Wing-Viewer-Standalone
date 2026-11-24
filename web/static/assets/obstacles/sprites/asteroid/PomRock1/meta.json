@@ -1,0 +1,25 @@
+{
+ "key": "PomRock1",
+ "kind": "asteroid",
+ "obj": "models/obstacles/PomRock1.obj",
+ "tex": "models/obstacles/PomRock1.png",
+ "win_mm": 20,
+ "ppm": 0,
+ "px": 512,
+ "bbox_mm": [
+  16.5,
+  0.4,
+  16.5
+ ],
+ "files": [
+  "top.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

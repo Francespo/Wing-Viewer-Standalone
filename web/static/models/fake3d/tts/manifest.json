@@ -1,0 +1,4698 @@
+{
+ "generated": "2026-11-22T13:22:56.853Z",
+ "angles": {
+  "top": [
+   0,
+   0
+  ],
+  "tilts": [
+   [
+    30,
+    0
+   ],
+   [
+    30,
+    90
+   ],
+   [
+    30,
+    180
+   ],
+   [
+    30,
+    270
+   ],
+   [
+    60,
+    0
+   ],
+   [
+    60,
+    90
+   ],
+   [
+    60,
+    180
+   ],
+   [
+    60,
+    270
+   ]
+  ]
+ },
+ "jobs": {
+  "eta2actis": {
+   "id": "tts/eta2actis",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/eta2actis/eta2actis.obj"
+     ],
+     "tex": "/models-tts/eta2actis/Textures/AnakinSkywalker.jpg",
+     "frames": 9
+    },
+    "aaylasecura": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/eta2actis/eta2actis.obj"
+     ],
+     "tex": "/models-tts/eta2actis/Textures/AaylaSecura.jpg",
+     "frames": 9
+    },
+    "anakinskywalker": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/eta2actis/eta2actis.obj"
+     ],
+     "tex": "/models-tts/eta2actis/Textures/AnakinSkywalker.jpg",
+     "frames": 9
+    },
+    "jedigeneral": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/eta2actis/eta2actis.obj"
+     ],
+     "tex": "/models-tts/eta2actis/Textures/JediGeneral.jpg",
+     "frames": 9
+    },
+    "obiwankenobi": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/eta2actis/eta2actis.obj"
+     ],
+     "tex": "/models-tts/eta2actis/Textures/ObiWanKenobi.jpg",
+     "frames": 9
+    },
+    "shaakti": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/eta2actis/eta2actis.obj"
+     ],
+     "tex": "/models-tts/eta2actis/Textures/ShaakTi.jpg",
+     "frames": 9
+    },
+    "yoda": {
+     "kind": "pilot_mesh",
+     "objs": [
+      "/models-tts/eta2actis/eta2actis-Yoda.obj"
+     ],
+     "tex": "/models-tts/eta2actis/Textures/Yoda.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "attackshuttle": {
+   "id": "tts/attackshuttle",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/attackshuttle/attackshuttle.obj"
+     ],
+     "tex": "/models-tts/attackshuttle/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/attackshuttle/attackshuttle.obj"
+     ],
+     "tex": "/models-tts/attackshuttle/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "auzituckgunship": {
+   "id": "tts/auzituckgunship",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/auzituckgunship/auzituck.obj"
+     ],
+     "tex": "/models-tts/auzituckgunship/Textures/cream.jpg",
+     "frames": 9
+    },
+    "cream": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/auzituckgunship/auzituck.obj"
+     ],
+     "tex": "/models-tts/auzituckgunship/Textures/cream.jpg",
+     "frames": 9
+    },
+    "orange": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/auzituckgunship/auzituck.obj"
+     ],
+     "tex": "/models-tts/auzituckgunship/Textures/orange.jpg",
+     "frames": 9
+    },
+    "tarfful": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/auzituckgunship/auzituck.obj"
+     ],
+     "tex": "/models-tts/auzituckgunship/Textures/tarfful.png",
+     "frames": 9
+    }
+   }
+  },
+  "belbulab22starfighter": {
+   "id": "tts/belbulab22starfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/belbulab22starfighter/Belbullab.obj"
+     ],
+     "tex": "/models-tts/belbulab22starfighter/Textures/standard.jpg",
+     "frames": 9
+    },
+    "belbullab": {
+     "kind": "pilot_mesh",
+     "objs": [
+      "/models-tts/belbulab22starfighter/Belbullab.obj"
+     ],
+     "tex": "/models-tts/belbulab22starfighter/Belbullab.png",
+     "frames": 9
+    },
+    "hotrod": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/belbulab22starfighter/Belbullab.obj"
+     ],
+     "tex": "/models-tts/belbulab22starfighter/Textures/HotRod.jpg",
+     "frames": 9
+    },
+    "wattambor": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/belbulab22starfighter/Belbullab.obj"
+     ],
+     "tex": "/models-tts/belbulab22starfighter/Textures/WatTambor.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/belbulab22starfighter/Belbullab.obj"
+     ],
+     "tex": "/models-tts/belbulab22starfighter/Textures/standard.jpg",
+     "frames": 9
+    },
+    "white": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/belbulab22starfighter/Belbullab.obj"
+     ],
+     "tex": "/models-tts/belbulab22starfighter/Textures/white.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "asf01bwing": {
+   "id": "tts/asf01bwing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-base.obj",
+      "/models-tts/asf01bwing/bwing-closed.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/textures/plain.png",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-base.obj",
+      "/models-tts/asf01bwing/bwing-closed.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/blue.png",
+     "frames": 9
+    },
+    "blade": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-base.obj",
+      "/models-tts/asf01bwing/bwing-closed.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/textures/blade.png",
+     "frames": 9
+    },
+    "braylen": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-base.obj",
+      "/models-tts/asf01bwing/bwing-closed.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/textures/braylen.png",
+     "frames": 9
+    },
+    "gina": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-base.obj",
+      "/models-tts/asf01bwing/bwing-closed.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/textures/gina.png",
+     "frames": 9
+    },
+    "hera": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-base.obj",
+      "/models-tts/asf01bwing/bwing-closed.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/textures/hera.png",
+     "frames": 9
+    },
+    "nera": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-base.obj",
+      "/models-tts/asf01bwing/bwing-closed.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/textures/nera.png",
+     "frames": 9
+    },
+    "netrem": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-base.obj",
+      "/models-tts/asf01bwing/bwing-closed.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/textures/netrem.png",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-base.obj",
+      "/models-tts/asf01bwing/bwing-closed.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/textures/plain.png",
+     "frames": 9
+    },
+    "tennumb": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-base.obj",
+      "/models-tts/asf01bwing/bwing-closed.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/textures/tennumb.png",
+     "frames": 9
+    },
+    "mesh_bwing-open": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/asf01bwing/bwing-open.obj"
+     ],
+     "tex": "/models-tts/asf01bwing/textures/plain.png",
+     "frames": 9
+    }
+   }
+  },
+  "btanr2ywing": {
+   "id": "tts/btanr2ywing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/btanr2ywing/RIS_Y-Wing.obj"
+     ],
+     "tex": "/models-tts/btanr2ywing/Textures/plain.png",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btanr2ywing/RIS_Y-Wing.obj"
+     ],
+     "tex": "/models-tts/btanr2ywing/Textures/blue.png",
+     "frames": 9
+    },
+    "caithrenalli": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btanr2ywing/RIS_Y-Wing.obj"
+     ],
+     "tex": "/models-tts/btanr2ywing/Textures/caithrenalli.png",
+     "frames": 9
+    },
+    "coruskapellim": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btanr2ywing/RIS_Y-Wing.obj"
+     ],
+     "tex": "/models-tts/btanr2ywing/Textures/coruskapellim.png",
+     "frames": 9
+    },
+    "legafossang": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btanr2ywing/RIS_Y-Wing.obj"
+     ],
+     "tex": "/models-tts/btanr2ywing/Textures/legafossang.png",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btanr2ywing/RIS_Y-Wing.obj"
+     ],
+     "tex": "/models-tts/btanr2ywing/Textures/plain.png",
+     "frames": 9
+    },
+    "tezanasz": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btanr2ywing/RIS_Y-Wing.obj"
+     ],
+     "tex": "/models-tts/btanr2ywing/Textures/tezanasz.png",
+     "frames": 9
+    },
+    "wilsateshlo": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btanr2ywing/RIS_Y-Wing.obj"
+     ],
+     "tex": "/models-tts/btanr2ywing/Textures/wilsateshlo.png",
+     "frames": 9
+    }
+   }
+  },
+  "clonez95headhunter": {
+   "id": "tts/clonez95headhunter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/clonez95headhunter/CloneZ95.obj"
+     ],
+     "tex": "/models-tts/clonez95headhunter/textures/standard.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/clonez95headhunter/CloneZ95.obj"
+     ],
+     "tex": "/models-tts/clonez95headhunter/blue.jpg",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/clonez95headhunter/CloneZ95.obj"
+     ],
+     "tex": "/models-tts/clonez95headhunter/textures/black.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/clonez95headhunter/CloneZ95.obj"
+     ],
+     "tex": "/models-tts/clonez95headhunter/textures/plain.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/clonez95headhunter/CloneZ95.obj"
+     ],
+     "tex": "/models-tts/clonez95headhunter/textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "btlbywing": {
+   "id": "tts/btlbywing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/btlbywing/BTLB_YWING.obj"
+     ],
+     "tex": "/models-tts/btlbywing/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btlbywing/BTLB_YWING.obj"
+     ],
+     "tex": "/models-tts/btlbywing/Textures/1/black.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btlbywing/BTLB_YWING.obj"
+     ],
+     "tex": "/models-tts/btlbywing/Textures/1/blue.jpg",
+     "frames": 9
+    },
+    "green": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btlbywing/BTLB_YWING.obj"
+     ],
+     "tex": "/models-tts/btlbywing/Textures/1/green.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btlbywing/BTLB_YWING.obj"
+     ],
+     "tex": "/models-tts/btlbywing/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btlbywing/BTLB_YWING.obj"
+     ],
+     "tex": "/models-tts/btlbywing/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "mesh_BTLB_YWINGv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/btlbywing/BTLB_YWINGv2.obj"
+     ],
+     "tex": "/models-tts/btlbywing/Textures/1/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "btla4ywing": {
+   "id": "tts/btla4ywing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/gold.png",
+     "frames": 9
+    },
+    "jinatasecurityofficer": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/JinataSecurityOfficer.png",
+     "frames": 9
+    },
+    "amaxine": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/amaxine.png",
+     "frames": 9
+    },
+    "crymorah": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/crymorah.png",
+     "frames": 9
+    },
+    "drearenthal": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/drearenthal.png",
+     "frames": 9
+    },
+    "gold": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/gold.png",
+     "frames": 9
+    },
+    "grey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/grey.png",
+     "frames": 9
+    },
+    "hiredgun": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/hiredgun.png",
+     "frames": 9
+    },
+    "hortonsalm": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/hortonsalm.png",
+     "frames": 9
+    },
+    "kavil": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/kavil.png",
+     "frames": 9
+    },
+    "norrawexley": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/norrawexley.png",
+     "frames": 9
+    },
+    "padric": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btla4ywing/btla4_ywingv2.obj"
+     ],
+     "tex": "/models-tts/btla4ywing/Textures/padric.png",
+     "frames": 9
+    }
+   }
+  },
+  "droidtrifighter": {
+   "id": "tts/droidtrifighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/droidtrifighter/CIS_Tri-Fighter.obj"
+     ],
+     "tex": "/models-tts/droidtrifighter/Textures/standard.png",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/droidtrifighter/CIS_Tri-Fighter.obj"
+     ],
+     "tex": "/models-tts/droidtrifighter/Textures/standard.png",
+     "frames": 9
+    }
+   }
+  },
+  "escapecraft": {
+   "id": "tts/escapecraft",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/escapecraft/escapecraft.obj"
+     ],
+     "tex": "/models-tts/escapecraft/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/escapecraft/escapecraft.obj"
+     ],
+     "tex": "/models-tts/escapecraft/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "ewing": {
+   "id": "tts/ewing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/ewing/ewing.obj"
+     ],
+     "tex": "/models-tts/ewing/Textures/CorranHorn.jpg",
+     "frames": 9
+    },
+    "corranhorn": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/ewing/ewing.obj"
+     ],
+     "tex": "/models-tts/ewing/Textures/CorranHorn.jpg",
+     "frames": 9
+    },
+    "gavindarklighter": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/ewing/ewing.obj"
+     ],
+     "tex": "/models-tts/ewing/Textures/GavinDarklighter.jpg",
+     "frames": 9
+    },
+    "knavesquadronescort": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/ewing/ewing.obj"
+     ],
+     "tex": "/models-tts/ewing/Textures/KnaveSquadronEscort.jpg",
+     "frames": 9
+    },
+    "roguesquadronescort": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/ewing/ewing.obj"
+     ],
+     "tex": "/models-tts/ewing/Textures/RogueSquadronEscort.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "fireball": {
+   "id": "tts/fireball",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/fireball/fireball.obj"
+     ],
+     "tex": "/models-tts/fireball/Textures/standard.jpg",
+     "frames": 9
+    },
+    "doza": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/fireball/fireball.obj"
+     ],
+     "tex": "/models-tts/fireball/Textures/doza.png",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/fireball/fireball.obj"
+     ],
+     "tex": "/models-tts/fireball/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "delta7aethersprite": {
+   "id": "tts/delta7aethersprite",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/AnakinSkywalker.jpg",
+     "frames": 9
+    },
+    "delta7": {
+     "kind": "pilot_mesh",
+     "objs": [
+      "/models-tts/delta7aethersprite/Delta7.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Delta7.png",
+     "frames": 9
+    },
+    "delta7b": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Delta7b.png",
+     "frames": 9
+    },
+    "ahsokatano": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/AhsokaTano.jpg",
+     "frames": 9
+    },
+    "anakinskywalker": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/AnakinSkywalker.jpg",
+     "frames": 9
+    },
+    "barrissoffee": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/BarrissOffee.jpg",
+     "frames": 9
+    },
+    "jediknight-tint": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/JediKnight-tint.jpg",
+     "frames": 9
+    },
+    "jediknight": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/JediKnight.jpg",
+     "frames": 9
+    },
+    "luminaraunduli": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/LuminaraUnduli.jpg",
+     "frames": 9
+    },
+    "macewindu": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/MaceWindu.jpg",
+     "frames": 9
+    },
+    "obi-wankenobi": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/Obi-WanKenobi.jpg",
+     "frames": 9
+    },
+    "plokoon": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/PloKoon.jpg",
+     "frames": 9
+    },
+    "saeseetiin": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/SaeseeTiin.jpg",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/black.jpg",
+     "frames": 9
+    },
+    "depa": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/depa.png",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+     ],
+     "tex": "/models-tts/delta7aethersprite/Textures/plain.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "fangfighter": {
+   "id": "tts/fangfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/fangfighter/ship-base.obj"
+     ],
+     "tex": "/models-tts/fangfighter/textures/red.jpg",
+     "frames": 9
+    },
+    "bodica": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/fangfighter/ship-base.obj"
+     ],
+     "tex": "/models-tts/fangfighter/textures/Bodica.jpg",
+     "frames": 9
+    },
+    "dirk": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/fangfighter/ship-base.obj"
+     ],
+     "tex": "/models-tts/fangfighter/textures/Dirk.jpg",
+     "frames": 9
+    },
+    "original": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/fangfighter/ship-base.obj"
+     ],
+     "tex": "/models-tts/fangfighter/textures/Original.jpg",
+     "frames": 9
+    },
+    "rebel-fenn": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/fangfighter/ship-base.obj"
+     ],
+     "tex": "/models-tts/fangfighter/textures/Rebel-Fenn.jpg",
+     "frames": 9
+    },
+    "sabine-fang": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/fangfighter/ship-base.obj"
+     ],
+     "tex": "/models-tts/fangfighter/textures/Sabine-Fang.jpg",
+     "frames": 9
+    },
+    "volunteer": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/fangfighter/ship-base.obj"
+     ],
+     "tex": "/models-tts/fangfighter/textures/Volunteer.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "hmpdroidgunship": {
+   "id": "tts/hmpdroidgunship",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/hmpdroidgunship/HMP_GunshipSlipping.obj"
+     ],
+     "tex": "/models-tts/hmpdroidgunship/Textures/standard.png",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hmpdroidgunship/HMP_GunshipSlipping.obj"
+     ],
+     "tex": "/models-tts/hmpdroidgunship/Textures/standard.png",
+     "frames": 9
+    }
+   }
+  },
+  "kihraxzfighter": {
+   "id": "tts/kihraxzfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/kihraxzfighter/khiraxz.obj"
+     ],
+     "tex": "/models-tts/kihraxzfighter/Textures/standard.jpg",
+     "frames": 9
+    },
+    "blacksun": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/kihraxzfighter/khiraxz.obj"
+     ],
+     "tex": "/models-tts/kihraxzfighter/Textures/blacksun.jpg",
+     "frames": 9
+    },
+    "green": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/kihraxzfighter/khiraxz.obj"
+     ],
+     "tex": "/models-tts/kihraxzfighter/Textures/green.jpg",
+     "frames": 9
+    },
+    "orange": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/kihraxzfighter/khiraxz.obj"
+     ],
+     "tex": "/models-tts/kihraxzfighter/Textures/orange.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/kihraxzfighter/khiraxz.obj"
+     ],
+     "tex": "/models-tts/kihraxzfighter/Textures/standard.jpg",
+     "frames": 9
+    },
+    "talonbane": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/kihraxzfighter/khiraxz.obj"
+     ],
+     "tex": "/models-tts/kihraxzfighter/Textures/talonbane.jpg",
+     "frames": 9
+    },
+    "vaksai": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/kihraxzfighter/khiraxz.obj"
+     ],
+     "tex": "/models-tts/kihraxzfighter/Textures/vaksai.png",
+     "frames": 9
+    },
+    "khiraxz": {
+     "kind": "pilot_mesh",
+     "objs": [
+      "/models-tts/kihraxzfighter/khiraxz.obj"
+     ],
+     "tex": "/models-tts/kihraxzfighter/khiraxz.png",
+     "frames": 9
+    }
+   }
+  },
+  "hwk290lightfreighter": {
+   "id": "tts/hwk290lightfreighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwk.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwk.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/1/black.jpg",
+     "frames": 9
+    },
+    "brown": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwk.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/1/brown.jpg",
+     "frames": 9
+    },
+    "kasmir": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwk.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/1/kasmir.png",
+     "frames": 9
+    },
+    "kyber": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwk.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/1/kyber.jpg",
+     "frames": 9
+    },
+    "mytho": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwk.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/1/mytho.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwk.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "white": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwk.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/1/white.jpg",
+     "frames": 9
+    },
+    "hwkblack": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwk.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/hwkblack.jpg",
+     "frames": 9
+    },
+    "hwkbrown": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwk.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/hwkbrown.jpg",
+     "frames": 9
+    },
+    "mesh_hwkv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/hwk290lightfreighter/hwkv2.obj"
+     ],
+     "tex": "/models-tts/hwk290lightfreighter/Textures/1/plain.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "hyenaclassdroidbomber": {
+   "id": "tts/hyenaclassdroidbomber",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/hyenaclassdroidbomber/Hyena_Open.obj"
+     ],
+     "tex": "/models-tts/hyenaclassdroidbomber/Textures/Standard.png",
+     "frames": 9
+    },
+    "baktoid": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hyenaclassdroidbomber/Hyena_Open.obj"
+     ],
+     "tex": "/models-tts/hyenaclassdroidbomber/Textures/1/baktoid.jpg",
+     "frames": 9
+    },
+    "fourohfour": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hyenaclassdroidbomber/Hyena_Open.obj"
+     ],
+     "tex": "/models-tts/hyenaclassdroidbomber/Textures/1/fourohfour.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hyenaclassdroidbomber/Hyena_Open.obj"
+     ],
+     "tex": "/models-tts/hyenaclassdroidbomber/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hyenaclassdroidbomber/Hyena_Open.obj"
+     ],
+     "tex": "/models-tts/hyenaclassdroidbomber/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "white": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/hyenaclassdroidbomber/Hyena_Open.obj"
+     ],
+     "tex": "/models-tts/hyenaclassdroidbomber/Textures/1/white.jpg",
+     "frames": 9
+    },
+    "mesh_Hyena_Closed": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/hyenaclassdroidbomber/Hyena_Closed.obj"
+     ],
+     "tex": "/models-tts/hyenaclassdroidbomber/Textures/Standard.png",
+     "frames": 9
+    },
+    "mesh_Hyena_Closedv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/hyenaclassdroidbomber/Hyena_Closedv2.obj"
+     ],
+     "tex": "/models-tts/hyenaclassdroidbomber/Textures/Standard.png",
+     "frames": 9
+    },
+    "mesh_Hyena_Openv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/hyenaclassdroidbomber/Hyena_Openv2.obj"
+     ],
+     "tex": "/models-tts/hyenaclassdroidbomber/Textures/Standard.png",
+     "frames": 9
+    }
+   }
+  },
+  "modifiedtielnfighter": {
+   "id": "tts/modifiedtielnfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/modifiedtielnfighter/miningguildtie.obj"
+     ],
+     "tex": "/models-tts/modifiedtielnfighter/Textures/standard.png",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/modifiedtielnfighter/miningguildtie.obj"
+     ],
+     "tex": "/models-tts/modifiedtielnfighter/Textures/standard.png",
+     "frames": 9
+    }
+   }
+  },
+  "m3ainterceptor": {
+   "id": "tts/m3ainterceptor",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/m3ainterceptor/m3a.obj"
+     ],
+     "tex": "/models-tts/m3ainterceptor/Textures/GenesisRed.jpg",
+     "frames": 9
+    },
+    "cartelspacer": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/m3ainterceptor/m3a.obj"
+     ],
+     "tex": "/models-tts/m3ainterceptor/Textures/CartelSpacer.jpg",
+     "frames": 9
+    },
+    "g4rg0r": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/m3ainterceptor/m3a.obj"
+     ],
+     "tex": "/models-tts/m3ainterceptor/Textures/G4rG0r.jpg",
+     "frames": 9
+    },
+    "genesisred": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/m3ainterceptor/m3a.obj"
+     ],
+     "tex": "/models-tts/m3ainterceptor/Textures/GenesisRed.jpg",
+     "frames": 9
+    },
+    "sunnybounder": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/m3ainterceptor/m3a.obj"
+     ],
+     "tex": "/models-tts/m3ainterceptor/Textures/SunnyBounder.jpg",
+     "frames": 9
+    },
+    "tansariipointveteran": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/m3ainterceptor/m3a.obj"
+     ],
+     "tex": "/models-tts/m3ainterceptor/Textures/TansariiPointVeteran.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "nantexclassstarfighter": {
+   "id": "tts/nantexclassstarfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/nantexclassstarfighter/Nantex.obj"
+     ],
+     "tex": "/models-tts/nantexclassstarfighter/Textures/newstandard.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nantexclassstarfighter/Nantex.obj"
+     ],
+     "tex": "/models-tts/nantexclassstarfighter/Textures/blue.png",
+     "frames": 9
+    },
+    "newstandard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nantexclassstarfighter/Nantex.obj"
+     ],
+     "tex": "/models-tts/nantexclassstarfighter/Textures/newstandard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nantexclassstarfighter/Nantex.obj"
+     ],
+     "tex": "/models-tts/nantexclassstarfighter/Textures/standard.png",
+     "frames": 9
+    },
+    "white": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nantexclassstarfighter/Nantex.obj"
+     ],
+     "tex": "/models-tts/nantexclassstarfighter/Textures/white.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "nabooroyaln1starfighter": {
+   "id": "tts/nabooroyaln1starfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/nabooroyaln1starfighter/MandoN1.obj"
+     ],
+     "tex": "/models-tts/nabooroyaln1starfighter/Textures/blue.jpg",
+     "frames": 9
+    },
+    "silver": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nabooroyaln1starfighter/MandoN1.obj"
+     ],
+     "tex": "/models-tts/nabooroyaln1starfighter/Textures/Silver.png",
+     "frames": 9
+    },
+    "yellow": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nabooroyaln1starfighter/MandoN1.obj"
+     ],
+     "tex": "/models-tts/nabooroyaln1starfighter/Textures/Yellow.png",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nabooroyaln1starfighter/MandoN1.obj"
+     ],
+     "tex": "/models-tts/nabooroyaln1starfighter/Textures/black.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nabooroyaln1starfighter/MandoN1.obj"
+     ],
+     "tex": "/models-tts/nabooroyaln1starfighter/Textures/blue.jpg",
+     "frames": 9
+    },
+    "jinata": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nabooroyaln1starfighter/MandoN1.obj"
+     ],
+     "tex": "/models-tts/nabooroyaln1starfighter/Textures/jinata.jpg",
+     "frames": 9
+    },
+    "mandalorian": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nabooroyaln1starfighter/MandoN1.obj"
+     ],
+     "tex": "/models-tts/nabooroyaln1starfighter/Textures/mandalorian.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "quadrijettransferspacetug": {
+   "id": "tts/quadrijettransferspacetug",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/quadrijettransferspacetug/quadjumper.obj"
+     ],
+     "tex": "/models-tts/quadrijettransferspacetug/Textures/standard.jpg",
+     "frames": 9
+    },
+    "mining": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/quadrijettransferspacetug/quadjumper.obj"
+     ],
+     "tex": "/models-tts/quadrijettransferspacetug/Textures/mining.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/quadrijettransferspacetug/quadjumper.obj"
+     ],
+     "tex": "/models-tts/quadrijettransferspacetug/Textures/standard.jpg",
+     "frames": 9
+    },
+    "quadjumper": {
+     "kind": "pilot_mesh",
+     "objs": [
+      "/models-tts/quadrijettransferspacetug/quadjumper.obj"
+     ],
+     "tex": "/models-tts/quadrijettransferspacetug/quadjumper.png",
+     "frames": 9
+    }
+   }
+  },
+  "resistancetransport": {
+   "id": "tts/resistancetransport",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/resistancetransport/transport.obj"
+     ],
+     "tex": "/models-tts/resistancetransport/Textures/standard.jpg",
+     "frames": 9
+    },
+    "jannah": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/resistancetransport/transport.obj"
+     ],
+     "tex": "/models-tts/resistancetransport/Textures/jannah.png",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/resistancetransport/transport.obj"
+     ],
+     "tex": "/models-tts/resistancetransport/Textures/plain.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/resistancetransport/transport.obj"
+     ],
+     "tex": "/models-tts/resistancetransport/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "nimbusclassvwing": {
+   "id": "tts/nimbusclassvwing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/nimbusclassvwing/vwing.obj"
+     ],
+     "tex": "/models-tts/nimbusclassvwing/Textures/plain.jpg",
+     "frames": 9
+    },
+    "vwingblue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nimbusclassvwing/vwing.obj"
+     ],
+     "tex": "/models-tts/nimbusclassvwing/Textures/VwingBlue.png",
+     "frames": 9
+    },
+    "vwingred": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nimbusclassvwing/vwing.obj"
+     ],
+     "tex": "/models-tts/nimbusclassvwing/Textures/VwingRed.png",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nimbusclassvwing/vwing.obj"
+     ],
+     "tex": "/models-tts/nimbusclassvwing/Textures/black.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nimbusclassvwing/vwing.obj"
+     ],
+     "tex": "/models-tts/nimbusclassvwing/Textures/blue.jpg",
+     "frames": 9
+    },
+    "contrail": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nimbusclassvwing/vwing.obj"
+     ],
+     "tex": "/models-tts/nimbusclassvwing/Textures/contrail.jpg",
+     "frames": 9
+    },
+    "jinata": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nimbusclassvwing/vwing.obj"
+     ],
+     "tex": "/models-tts/nimbusclassvwing/Textures/jinata.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/nimbusclassvwing/vwing.obj"
+     ],
+     "tex": "/models-tts/nimbusclassvwing/Textures/plain.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "resistancetransportpod": {
+   "id": "tts/resistancetransportpod",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/resistancetransportpod/transport_pod.obj"
+     ],
+     "tex": "/models-tts/resistancetransportpod/Textures/standard.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/resistancetransportpod/transport_pod.obj"
+     ],
+     "tex": "/models-tts/resistancetransportpod/Textures/plain.jpg",
+     "frames": 9
+    },
+    "plain2": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/resistancetransportpod/transport_pod.obj"
+     ],
+     "tex": "/models-tts/resistancetransportpod/Textures/plain2.jpg",
+     "frames": 9
+    },
+    "red2": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/resistancetransportpod/transport_pod.obj"
+     ],
+     "tex": "/models-tts/resistancetransportpod/Textures/red2.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/resistancetransportpod/transport_pod.obj"
+     ],
+     "tex": "/models-tts/resistancetransportpod/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard2": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/resistancetransportpod/transport_pod.obj"
+     ],
+     "tex": "/models-tts/resistancetransportpod/Textures/standard2.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "rogueclassstarfighter": {
+   "id": "tts/rogueclassstarfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/rogueclassstarfighter/rogueclass.obj"
+     ],
+     "tex": "/models-tts/rogueclassstarfighter/plain.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rogueclassstarfighter/rogueclass.obj"
+     ],
+     "tex": "/models-tts/rogueclassstarfighter/plain.jpg",
+     "frames": 9
+    },
+    "rogue-class-green": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rogueclassstarfighter/rogueclass.obj"
+     ],
+     "tex": "/models-tts/rogueclassstarfighter/textures/Rogue-Class-Green.jpg",
+     "frames": 9
+    },
+    "rogue-class-grey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rogueclassstarfighter/rogueclass.obj"
+     ],
+     "tex": "/models-tts/rogueclassstarfighter/textures/Rogue-Class-Grey.jpg",
+     "frames": 9
+    },
+    "durge": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rogueclassstarfighter/rogueclass.obj"
+     ],
+     "tex": "/models-tts/rogueclassstarfighter/textures/durge.jpg",
+     "frames": 9
+    },
+    "white": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rogueclassstarfighter/rogueclass.obj"
+     ],
+     "tex": "/models-tts/rogueclassstarfighter/textures/white.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "sheathipedeclassshuttle": {
+   "id": "tts/sheathipedeclassshuttle",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/sheathipedeclassshuttle/Sheathipede2.obj"
+     ],
+     "tex": "/models-tts/sheathipedeclassshuttle/Textures/standard.jpg",
+     "frames": 9
+    },
+    "sheathipede": {
+     "kind": "pilot_mesh",
+     "objs": [
+      "/models-tts/sheathipedeclassshuttle/Sheathipede2.obj"
+     ],
+     "tex": "/models-tts/sheathipedeclassshuttle/Sheathipede.png",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/sheathipedeclassshuttle/Sheathipede2.obj"
+     ],
+     "tex": "/models-tts/sheathipedeclassshuttle/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "rz2awing": {
+   "id": "tts/rz2awing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/rz2awing/res_awing.obj"
+     ],
+     "tex": "/models-tts/rz2awing/Textures/blue.png",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz2awing/res_awing.obj"
+     ],
+     "tex": "/models-tts/rz2awing/Textures/blue.png",
+     "frames": 9
+    },
+    "green": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz2awing/res_awing.obj"
+     ],
+     "tex": "/models-tts/rz2awing/Textures/green.png",
+     "frames": 9
+    },
+    "orange": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz2awing/res_awing.obj"
+     ],
+     "tex": "/models-tts/rz2awing/Textures/orange.png",
+     "frames": 9
+    },
+    "rz2_awing": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz2awing/res_awing.obj"
+     ],
+     "tex": "/models-tts/rz2awing/rz2_awing.png",
+     "frames": 9
+    }
+   }
+  },
+  "starviperclassattackplatform": {
+   "id": "tts/starviperclassattackplatform",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/starviperclassattackplatform/starviper.obj"
+     ],
+     "tex": "/models-tts/starviperclassattackplatform/Textures/blacksunassassin.jpg",
+     "frames": 9
+    },
+    "blacksunassassin": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/starviperclassattackplatform/starviper.obj"
+     ],
+     "tex": "/models-tts/starviperclassattackplatform/Textures/blacksunassassin.jpg",
+     "frames": 9
+    },
+    "blacksunenforcer": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/starviperclassattackplatform/starviper.obj"
+     ],
+     "tex": "/models-tts/starviperclassattackplatform/Textures/blacksunenforcer.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "rz1awing": {
+   "id": "tts/rz1awing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/plain.jpg",
+     "frames": 9
+    },
+    "arvelcrynyd": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/ArvelCrynyd.png",
+     "frames": 9
+    },
+    "greensquadronpilot": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/GreenSquadronPilot.png",
+     "frames": 9
+    },
+    "herasyndulla": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/HeraSyndulla.png",
+     "frames": 9
+    },
+    "jakefarrell": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/JakeFarrell.png",
+     "frames": 9
+    },
+    "sabinewren": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/SabineWren.png",
+     "frames": 9
+    },
+    "sharabey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/SharaBey.png",
+     "frames": 9
+    },
+    "wedgeantilles": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/WedgeAntilles.png",
+     "frames": 9
+    },
+    "arvel": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/arvel.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/blue.jpg",
+     "frames": 9
+    },
+    "green": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/green.jpg",
+     "frames": 9
+    },
+    "green2": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/green2.jpg",
+     "frames": 9
+    },
+    "hera": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/hera.jpg",
+     "frames": 9
+    },
+    "kyber": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/kyber.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/plain.jpg",
+     "frames": 9
+    },
+    "sabines": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/sabines.jpg",
+     "frames": 9
+    },
+    "shara": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/Textures/shara.jpg",
+     "frames": 9
+    },
+    "rz1_awing": {
+     "kind": "pilot_mesh",
+     "objs": [
+      "/models-tts/rz1awing/rz1awing.obj"
+     ],
+     "tex": "/models-tts/rz1awing/rz1_awing.png",
+     "frames": 9
+    }
+   }
+  },
+  "tieadvancedv1": {
+   "id": "tts/tieadvancedv1",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tieadvancedv1/tieadvv1.obj"
+     ],
+     "tex": "/models-tts/tieadvancedv1/textures/1/tieadvancedv1blue.jpg",
+     "frames": 9
+    },
+    "tieadvancedv1blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieadvancedv1/tieadvv1.obj"
+     ],
+     "tex": "/models-tts/tieadvancedv1/textures/1/tieadvancedv1blue.jpg",
+     "frames": 9
+    },
+    "tieadvancedv1grey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieadvancedv1/tieadvv1.obj"
+     ],
+     "tex": "/models-tts/tieadvancedv1/textures/1/tieadvancedv1grey.jpg",
+     "frames": 9
+    },
+    "mesh_tieadvv1v2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/tieadvancedv1/tieadvv1v2.obj"
+     ],
+     "tex": "/models-tts/tieadvancedv1/textures/1/tieadvancedv1blue.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "t70xwing": {
+   "id": "tts/t70xwing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/t70xwing/t70_base.obj",
+      "/models-tts/t70xwing/t70_open.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/PoeDameron.png",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t70xwing/t70_base.obj",
+      "/models-tts/t70xwing/t70_open.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/1/blue.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t70xwing/t70_base.obj",
+      "/models-tts/t70xwing/t70_open.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "poehoh": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t70xwing/t70_base.obj",
+      "/models-tts/t70xwing/t70_open.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/1/poeHoH.jpg",
+     "frames": 9
+    },
+    "snap": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t70xwing/t70_base.obj",
+      "/models-tts/t70xwing/t70_open.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/1/snap.jpg",
+     "frames": 9
+    },
+    "poedameron": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t70xwing/t70_base.obj",
+      "/models-tts/t70xwing/t70_open.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/PoeDameron.png",
+     "frames": 9
+    },
+    "redsquadronexpert": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t70xwing/t70_base.obj",
+      "/models-tts/t70xwing/t70_open.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/RedSquadronExpert.png",
+     "frames": 9
+    },
+    "snaphoh": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t70xwing/t70_base.obj",
+      "/models-tts/t70xwing/t70_open.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/SnapHoH.png",
+     "frames": 9
+    },
+    "mesh_t70_basev2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t70xwing/t70_basev2.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/PoeDameron.png",
+     "frames": 9
+    },
+    "mesh_t70_closed": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t70xwing/t70_closed.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/PoeDameron.png",
+     "frames": 9
+    },
+    "mesh_t70_closedv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t70xwing/t70_closedv2.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/PoeDameron.png",
+     "frames": 9
+    },
+    "mesh_t70_openv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t70xwing/t70_openv2.obj"
+     ],
+     "tex": "/models-tts/t70xwing/Textures/PoeDameron.png",
+     "frames": 9
+    }
+   }
+  },
+  "tieadvancedx1": {
+   "id": "tts/tieadvancedx1",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tieadvancedx1/tieadvancedx1v2.obj"
+     ],
+     "tex": "/models-tts/tieadvancedx1/textures/1/tieadvancedx1blue.jpg",
+     "frames": 9
+    },
+    "tieadvancedx1blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieadvancedx1/tieadvancedx1v2.obj"
+     ],
+     "tex": "/models-tts/tieadvancedx1/textures/1/tieadvancedx1blue.jpg",
+     "frames": 9
+    },
+    "tieadvancedx1grey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieadvancedx1/tieadvancedx1v2.obj"
+     ],
+     "tex": "/models-tts/tieadvancedx1/textures/1/tieadvancedx1grey.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tieagaggressor": {
+   "id": "tts/tieagaggressor",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tieagaggressor/tieagaggressor.obj"
+     ],
+     "tex": "/models-tts/tieagaggressor/Tie-Aggressor-blue.jpg",
+     "frames": 9
+    },
+    "tie-aggressor-blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieagaggressor/tieagaggressor.obj"
+     ],
+     "tex": "/models-tts/tieagaggressor/Tie-Aggressor-blue.jpg",
+     "frames": 9
+    },
+    "tie-aggressor-grey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieagaggressor/tieagaggressor.obj"
+     ],
+     "tex": "/models-tts/tieagaggressor/textures/Tie-Aggressor-grey.jpg",
+     "frames": 9
+    },
+    "tieagaggressorblue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieagaggressor/tieagaggressor.obj"
+     ],
+     "tex": "/models-tts/tieagaggressor/textures/tieagaggressorblue.jpg",
+     "frames": 9
+    },
+    "tieagaggressorgrey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieagaggressor/tieagaggressor.obj"
+     ],
+     "tex": "/models-tts/tieagaggressor/textures/tieagaggressorgrey.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tiebainterceptor": {
+   "id": "tts/tiebainterceptor",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tiebainterceptor/TieBaron.obj"
+     ],
+     "tex": "/models-tts/tiebainterceptor/Textures/standard.jpg",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiebainterceptor/TieBaron.obj"
+     ],
+     "tex": "/models-tts/tiebainterceptor/Textures/black.jpg",
+     "frames": 9
+    },
+    "jank": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiebainterceptor/TieBaron.obj"
+     ],
+     "tex": "/models-tts/tiebainterceptor/Textures/jank.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiebainterceptor/TieBaron.obj"
+     ],
+     "tex": "/models-tts/tiebainterceptor/Textures/standard.jpg",
+     "frames": 9
+    },
+    "white": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiebainterceptor/TieBaron.obj"
+     ],
+     "tex": "/models-tts/tiebainterceptor/Textures/white.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tiededefender": {
+   "id": "tts/tiededefender",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tiededefender/defender.obj"
+     ],
+     "tex": "/models-tts/tiededefender/textures/tiededefenderblue.jpg",
+     "frames": 9
+    },
+    "kyber": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiededefender/defender.obj"
+     ],
+     "tex": "/models-tts/tiededefender/textures/Kyber.jpg",
+     "frames": 9
+    },
+    "tiededefenderblue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiededefender/defender.obj"
+     ],
+     "tex": "/models-tts/tiededefender/textures/tiededefenderblue.jpg",
+     "frames": 9
+    },
+    "tiededefendergrey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiededefender/defender.obj"
+     ],
+     "tex": "/models-tts/tiededefender/textures/tiededefendergrey.jpg",
+     "frames": 9
+    },
+    "tiededefenderred": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiededefender/defender.obj"
+     ],
+     "tex": "/models-tts/tiededefender/textures/tiededefenderred.jpg",
+     "frames": 9
+    },
+    "tiededefenderss": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiededefender/defender.obj"
+     ],
+     "tex": "/models-tts/tiededefender/textures/tiededefenderss.jpg",
+     "frames": 9
+    },
+    "tiededefendervader": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiededefender/defender.obj"
+     ],
+     "tex": "/models-tts/tiededefender/textures/tiededefendervader.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tiefofighter": {
+   "id": "tts/tiefofighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tiefofighter/TieFOv1.obj"
+     ],
+     "tex": "/models-tts/tiefofighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiefofighter/TieFOv1.obj"
+     ],
+     "tex": "/models-tts/tiefofighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "fn2187": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiefofighter/TieFOv1.obj"
+     ],
+     "tex": "/models-tts/tiefofighter/Textures/2/fn2187.png",
+     "frames": 9
+    },
+    "tie_fo": {
+     "kind": "pilot_mesh",
+     "objs": [
+      "/models-tts/tiefofighter/TieFO.obj"
+     ],
+     "tex": "/models-tts/tiefofighter/Tie_FO.png",
+     "frames": 9
+    },
+    "mesh_TieFOv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/tiefofighter/TieFOv2.obj"
+     ],
+     "tex": "/models-tts/tiefofighter/Textures/1/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "t65xwing": {
+   "id": "tts/t65xwing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "biggs": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/1/biggs.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/1/blue.jpg",
+     "frames": 9
+    },
+    "cavernangels": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/1/cavernangels.jpg",
+     "frames": 9
+    },
+    "garven": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/1/garven.jpg",
+     "frames": 9
+    },
+    "luke": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/1/luke.jpg",
+     "frames": 9
+    },
+    "porkins": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/1/porkins.jpg",
+     "frames": 9
+    },
+    "thane": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/1/thane.jpg",
+     "frames": 9
+    },
+    "wedge": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/1/wedge.jpg",
+     "frames": 9
+    },
+    "merrick": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/2/merrick.png",
+     "frames": 9
+    },
+    "redder": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/2/redder.jpg",
+     "frames": 9
+    },
+    "biggsdarklighter": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/BiggsDarklighter.png",
+     "frames": 9
+    },
+    "cavernangelszealot": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/CavernAngelsZealot.png",
+     "frames": 9
+    },
+    "garvendreis": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/GarvenDreis.png",
+     "frames": 9
+    },
+    "jekporkins": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/JekPorkins.png",
+     "frames": 9
+    },
+    "lukeskywalker": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/LukeSkywalker.png",
+     "frames": 9
+    },
+    "thanekyrell": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/ThaneKyrell.png",
+     "frames": 9
+    },
+    "wedgeantilles": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/WedgeAntilles.png",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/t65xwing/xwing_base.obj",
+      "/models-tts/t65xwing/xwing_open.obj"
+     ],
+     "tex": "/models-tts/t65xwing/Textures/standard.png",
+     "frames": 9
+    },
+    "mesh_xwing_closed": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwing_closed.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "mesh_xwingbase": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwingbase.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "mesh_xwingbasev1": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwingbasev1.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "mesh_xwingbasev2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwingbasev2.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "mesh_xwingbasev3": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwingbasev3.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "mesh_xwingclosed": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwingclosed.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "mesh_xwingclosedv1": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwingclosedv1.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "mesh_xwingclosedv3": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwingclosedv3.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "mesh_xwingopen": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwingopen.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "mesh_xwingopenv1": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwingopenv1.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    },
+    "mesh_xwingopenv3": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/t65xwing/xwingopenv3.obj"
+     ],
+     "tex": "/models-tts/t65xwing/blue.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tielnfighter": {
+   "id": "tts/tielnfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tielnfighter/TIE_LN.obj"
+     ],
+     "tex": "/models-tts/tielnfighter/textures/Tie-Fighter-Blue2.jpg",
+     "frames": 9
+    },
+    "tie-fighter-blue2": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tielnfighter/TIE_LN.obj"
+     ],
+     "tex": "/models-tts/tielnfighter/textures/Tie-Fighter-Blue2.jpg",
+     "frames": 9
+    },
+    "tie-fighter-grey2": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tielnfighter/TIE_LN.obj"
+     ],
+     "tex": "/models-tts/tielnfighter/textures/Tie-Fighter-Grey2.jpg",
+     "frames": 9
+    },
+    "tie-fighter-inferno2": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tielnfighter/TIE_LN.obj"
+     ],
+     "tex": "/models-tts/tielnfighter/textures/Tie-Fighter-Inferno2.jpg",
+     "frames": 9
+    },
+    "tie-fighter-rebel": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tielnfighter/TIE_LN.obj"
+     ],
+     "tex": "/models-tts/tielnfighter/textures/Tie-Fighter-Rebel.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tieininterceptor": {
+   "id": "tts/tieininterceptor",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tieininterceptor/tieinterceptor.obj"
+     ],
+     "tex": "/models-tts/tieininterceptor/tieininterceptorblue.jpg",
+     "frames": 9
+    },
+    "tieininterceptorblue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieininterceptor/tieinterceptor.obj"
+     ],
+     "tex": "/models-tts/tieininterceptor/textures/tieininterceptorblue.jpg",
+     "frames": 9
+    },
+    "tieininterceptorgrey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieininterceptor/tieinterceptor.obj"
+     ],
+     "tex": "/models-tts/tieininterceptor/textures/tieininterceptorgrey.jpg",
+     "frames": 9
+    },
+    "tieininterceptorred": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieininterceptor/tieinterceptor.obj"
+     ],
+     "tex": "/models-tts/tieininterceptor/textures/tieininterceptorred.jpg",
+     "frames": 9
+    },
+    "tieininterceptorss": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieininterceptor/tieinterceptor.obj"
+     ],
+     "tex": "/models-tts/tieininterceptor/textures/tieininterceptorss.jpg",
+     "frames": 9
+    },
+    "tieinterceptor181": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieininterceptor/tieinterceptor.obj"
+     ],
+     "tex": "/models-tts/tieininterceptor/textures/tieinterceptor181.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tiesabomber": {
+   "id": "tts/tiesabomber",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tiesabomber/tiebomber.obj"
+     ],
+     "tex": "/models-tts/tiesabomber/textures/tiesabomberblue.jpg",
+     "frames": 9
+    },
+    "tiesabomberblue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiesabomber/tiebomber.obj"
+     ],
+     "tex": "/models-tts/tiesabomber/textures/tiesabomberblue.jpg",
+     "frames": 9
+    },
+    "tiesabombergrey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiesabomber/tiebomber.obj"
+     ],
+     "tex": "/models-tts/tiesabomber/textures/tiesabombergrey.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tieskstriker": {
+   "id": "tts/tieskstriker",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tieskstriker/tiestriker.obj"
+     ],
+     "tex": "/models-tts/tieskstriker/textures/tieskstrikergrey.jpg",
+     "frames": 9
+    },
+    "tieskstrikerblue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieskstriker/tiestriker.obj"
+     ],
+     "tex": "/models-tts/tieskstriker/textures/tieskstrikerblue.jpg",
+     "frames": 9
+    },
+    "tieskstrikergrey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tieskstriker/tiestriker.obj"
+     ],
+     "tex": "/models-tts/tieskstriker/textures/tieskstrikergrey.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tiesebomber": {
+   "id": "tts/tiesebomber",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tiesebomber/tie_se.obj"
+     ],
+     "tex": "/models-tts/tiesebomber/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiesebomber/tie_se.obj"
+     ],
+     "tex": "/models-tts/tiesebomber/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "mesh_tie_sev2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/tiesebomber/tie_sev2.obj"
+     ],
+     "tex": "/models-tts/tiesebomber/Textures/1/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tiesffighter": {
+   "id": "tts/tiesffighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tiesffighter/Tie_SF.obj"
+     ],
+     "tex": "/models-tts/tiesffighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiesffighter/Tie_SF.obj"
+     ],
+     "tex": "/models-tts/tiesffighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "strife": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiesffighter/Tie_SF.obj"
+     ],
+     "tex": "/models-tts/tiesffighter/Textures/1/strife.png",
+     "frames": 9
+    },
+    "mesh_TieSFv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/tiesffighter/TieSFv2.obj"
+     ],
+     "tex": "/models-tts/tiesffighter/Textures/1/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tievnsilencer": {
+   "id": "tts/tievnsilencer",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tievnsilencer/Tie_VN2.obj"
+     ],
+     "tex": "/models-tts/tievnsilencer/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tievnsilencer/Tie_VN2.obj"
+     ],
+     "tex": "/models-tts/tievnsilencer/Textures/1/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tiewiwhispermodifiedinterceptor": {
+   "id": "tts/tiewiwhispermodifiedinterceptor",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tiewiwhispermodifiedinterceptor/TIE_Wi.obj"
+     ],
+     "tex": "/models-tts/tiewiwhispermodifiedinterceptor/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiewiwhispermodifiedinterceptor/TIE_Wi.obj"
+     ],
+     "tex": "/models-tts/tiewiwhispermodifiedinterceptor/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "mesh_TIE_Wiv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/tiewiwhispermodifiedinterceptor/TIE_Wiv2.obj"
+     ],
+     "tex": "/models-tts/tiewiwhispermodifiedinterceptor/Textures/1/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "v19torrentstarfighter": {
+   "id": "tts/v19torrentstarfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/v19torrentstarfighter/V-19_Torrent.obj"
+     ],
+     "tex": "/models-tts/v19torrentstarfighter/Textures/standard.png",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/v19torrentstarfighter/V-19_Torrent.obj"
+     ],
+     "tex": "/models-tts/v19torrentstarfighter/Textures/1/black.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/v19torrentstarfighter/V-19_Torrent.obj"
+     ],
+     "tex": "/models-tts/v19torrentstarfighter/Textures/1/blue.jpg",
+     "frames": 9
+    },
+    "logo": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/v19torrentstarfighter/V-19_Torrent.obj"
+     ],
+     "tex": "/models-tts/v19torrentstarfighter/Textures/1/logo.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/v19torrentstarfighter/V-19_Torrent.obj"
+     ],
+     "tex": "/models-tts/v19torrentstarfighter/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/v19torrentstarfighter/V-19_Torrent.obj"
+     ],
+     "tex": "/models-tts/v19torrentstarfighter/Textures/standard.png",
+     "frames": 9
+    },
+    "mesh_V-19_Torrentv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/v19torrentstarfighter/V-19_Torrentv2.obj"
+     ],
+     "tex": "/models-tts/v19torrentstarfighter/Textures/standard.png",
+     "frames": 9
+    }
+   }
+  },
+  "z95af4headhunter": {
+   "id": "tts/z95af4headhunter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/TalaSquadronPilot.png",
+     "frames": 9
+    },
+    "bandit": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/1/bandit.jpg",
+     "frames": 9
+    },
+    "binayre": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/1/binayre.jpg",
+     "frames": 9
+    },
+    "blacksun": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/1/blacksun.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/1/blue.jpg",
+     "frames": 9
+    },
+    "bossk": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/1/bossk.jpg",
+     "frames": 9
+    },
+    "nashtah": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/1/nashtah.jpg",
+     "frames": 9
+    },
+    "ndru": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/1/ndru.jpg",
+     "frames": 9
+    },
+    "orange": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/1/orange.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "tala": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/1/tala.jpg",
+     "frames": 9
+    },
+    "airencracken": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/AirenCracken.png",
+     "frames": 9
+    },
+    "banditsquadronpilot": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/BanditSquadronPilot.png",
+     "frames": 9
+    },
+    "binayrepirate": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/BinayrePirate.png",
+     "frames": 9
+    },
+    "blacksunsoldier": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/BlackSunSoldier.png",
+     "frames": 9
+    },
+    "lieutenantblount": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/LieutenantBlount.png",
+     "frames": 9
+    },
+    "nashtahpup": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/NashtahPup.png",
+     "frames": 9
+    },
+    "ndrusuhlak": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/NdruSuhlak.png",
+     "frames": 9
+    },
+    "talasquadronpilot": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/z95af4headhunter/z95.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/TalaSquadronPilot.png",
+     "frames": 9
+    },
+    "mesh_Z95v2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/z95af4headhunter/Z95v2.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/TalaSquadronPilot.png",
+     "frames": 9
+    },
+    "mesh_Z95v3": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/z95af4headhunter/Z95v3.obj"
+     ],
+     "tex": "/models-tts/z95af4headhunter/Textures/TalaSquadronPilot.png",
+     "frames": 9
+    }
+   }
+  },
+  "aggressorassaultfighter": {
+   "id": "tts/aggressorassaultfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/aggressorassaultfighter/aggressor.obj"
+     ],
+     "tex": "/models-tts/aggressorassaultfighter/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/aggressorassaultfighter/aggressor.obj"
+     ],
+     "tex": "/models-tts/aggressorassaultfighter/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "vultureclassdroidfighter": {
+   "id": "tts/vultureclassdroidfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/vultureclassdroidfighter/Vulture_Open.obj"
+     ],
+     "tex": "/models-tts/vultureclassdroidfighter/Textures/SeperatistDrone.png",
+     "frames": 9
+    },
+    "dfs-081": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/vultureclassdroidfighter/Vulture_Open.obj"
+     ],
+     "tex": "/models-tts/vultureclassdroidfighter/Textures/DFS-081.png",
+     "frames": 9
+    },
+    "dfs-311": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/vultureclassdroidfighter/Vulture_Open.obj"
+     ],
+     "tex": "/models-tts/vultureclassdroidfighter/Textures/DFS-311.png",
+     "frames": 9
+    },
+    "haorchallprototype": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/vultureclassdroidfighter/Vulture_Open.obj"
+     ],
+     "tex": "/models-tts/vultureclassdroidfighter/Textures/HaorChallPrototype.png",
+     "frames": 9
+    },
+    "precisehunter": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/vultureclassdroidfighter/Vulture_Open.obj"
+     ],
+     "tex": "/models-tts/vultureclassdroidfighter/Textures/PreciseHunter.png",
+     "frames": 9
+    },
+    "seperatistdrone": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/vultureclassdroidfighter/Vulture_Open.obj"
+     ],
+     "tex": "/models-tts/vultureclassdroidfighter/Textures/SeperatistDrone.png",
+     "frames": 9
+    },
+    "dfs420": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/vultureclassdroidfighter/Vulture_Open.obj"
+     ],
+     "tex": "/models-tts/vultureclassdroidfighter/Textures/dfs420.png",
+     "frames": 9
+    },
+    "mesh_Vulture_Closed": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/vultureclassdroidfighter/Vulture_Closed.obj"
+     ],
+     "tex": "/models-tts/vultureclassdroidfighter/Textures/SeperatistDrone.png",
+     "frames": 9
+    }
+   }
+  },
+  "arc170starfighter": {
+   "id": "tts/arc170starfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/arc170starfighter/arc170.obj"
+     ],
+     "tex": "/models-tts/arc170starfighter/Textures/republic-blue.jpg",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/arc170starfighter/arc170.obj"
+     ],
+     "tex": "/models-tts/arc170starfighter/Textures/black.jpg",
+     "frames": 9
+    },
+    "rebel": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/arc170starfighter/arc170.obj"
+     ],
+     "tex": "/models-tts/arc170starfighter/Textures/rebel.jpg",
+     "frames": 9
+    },
+    "republic-blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/arc170starfighter/arc170.obj"
+     ],
+     "tex": "/models-tts/arc170starfighter/Textures/republic-blue.jpg",
+     "frames": 9
+    },
+    "republic": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/arc170starfighter/arc170.obj"
+     ],
+     "tex": "/models-tts/arc170starfighter/Textures/republic.png",
+     "frames": 9
+    },
+    "republicblue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/arc170starfighter/arc170.obj"
+     ],
+     "tex": "/models-tts/arc170starfighter/Textures/republicblue.jpg",
+     "frames": 9
+    },
+    "republicred": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/arc170starfighter/arc170.obj"
+     ],
+     "tex": "/models-tts/arc170starfighter/Textures/republicred.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "btls8kwing": {
+   "id": "tts/btls8kwing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/btls8kwing/kwing.obj"
+     ],
+     "tex": "/models-tts/btls8kwing/Textures/standard.png",
+     "frames": 9
+    },
+    "esegetuketu": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btls8kwing/kwing.obj"
+     ],
+     "tex": "/models-tts/btls8kwing/Textures/EsegeTuketu.png",
+     "frames": 9
+    },
+    "mirandadoni": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btls8kwing/kwing.obj"
+     ],
+     "tex": "/models-tts/btls8kwing/Textures/MirandaDoni.png",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/btls8kwing/kwing.obj"
+     ],
+     "tex": "/models-tts/btls8kwing/Textures/standard.png",
+     "frames": 9
+    }
+   }
+  },
+  "firesprayclasspatrolcraft": {
+   "id": "tts/firesprayclasspatrolcraft",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/blue.jpg",
+     "frames": 9
+    },
+    "boba": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/boba.jpg",
+     "frames": 9
+    },
+    "bountyhunter": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/bountyhunter.jpg",
+     "frames": 9
+    },
+    "emon": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/emon.jpg",
+     "frames": 9
+    },
+    "jango": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/jango.jpg",
+     "frames": 9
+    },
+    "kath": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/kath.jpg",
+     "frames": 9
+    },
+    "koshka": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/koshka.jpg",
+     "frames": 9
+    },
+    "krassis": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/krassis.jpg",
+     "frames": 9
+    },
+    "mercenary": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/mercenary.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "sabine": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/sabine.jpg",
+     "frames": 9
+    },
+    "skull": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/skull.jpg",
+     "frames": 9
+    },
+    "white": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/white.jpg",
+     "frames": 9
+    },
+    "bobafett": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/bobafett.png",
+     "frames": 9
+    },
+    "emonazzameen": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/emonazzameen.png",
+     "frames": 9
+    },
+    "jangofett": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/jangofett.jpg",
+     "frames": 9
+    },
+    "kathscarlet": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/kathscarlet.png",
+     "frames": 9
+    },
+    "koshkafrost": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/koshkafrost.png",
+     "frames": 9
+    },
+    "krassistrelix": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/krassistrelix.png",
+     "frames": 9
+    },
+    "zamwesell": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/zamwesell.jpg",
+     "frames": 9
+    },
+    "mesh_firesprayV2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firesprayV2.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "mesh_firesprayV3-canopy": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firesprayV3-canopy.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "mesh_firesprayV3": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/firesprayclasspatrolcraft/firesprayV3.obj"
+     ],
+     "tex": "/models-tts/firesprayclasspatrolcraft/Textures/1/plain.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "g1astarfighter": {
+   "id": "tts/g1astarfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/g1astarfighter/g1a.obj"
+     ],
+     "tex": "/models-tts/g1astarfighter/Textures/standard.png",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/g1astarfighter/g1a.obj"
+     ],
+     "tex": "/models-tts/g1astarfighter/Textures/standard.png",
+     "frames": 9
+    }
+   }
+  },
+  "laatigunship": {
+   "id": "tts/laatigunship",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/black.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/blue.jpg",
+     "frames": 9
+    },
+    "hound1": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/hound1.jpg",
+     "frames": 9
+    },
+    "hound2": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/hound2.jpg",
+     "frames": 9
+    },
+    "munilist": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/munilist.jpg",
+     "frames": 9
+    },
+    "nosecrumb": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/nosecrumb.jpg",
+     "frames": 9
+    },
+    "nosenexu": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/nosenexu.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "stealth": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/stealth.jpg",
+     "frames": 9
+    },
+    "warthog": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/warthog.jpg",
+     "frames": 9
+    },
+    "hawk": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/Hawk.png",
+     "frames": 9
+    },
+    "hound": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/laatigunship/LAAT.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/Hound.png",
+     "frames": 9
+    },
+    "mesh_LAATv2": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/laatigunship/LAATv2.obj"
+     ],
+     "tex": "/models-tts/laatigunship/Textures/1/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "m12lkimogilafighter": {
+   "id": "tts/m12lkimogilafighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/m12lkimogilafighter/kimogila.obj"
+     ],
+     "tex": "/models-tts/m12lkimogilafighter/Textures/CartelExecutioner.png",
+     "frames": 9
+    },
+    "cartelexecutioner": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/m12lkimogilafighter/kimogila.obj"
+     ],
+     "tex": "/models-tts/m12lkimogilafighter/Textures/CartelExecutioner.png",
+     "frames": 9
+    },
+    "dalanoberos": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/m12lkimogilafighter/kimogila.obj"
+     ],
+     "tex": "/models-tts/m12lkimogilafighter/Textures/DalanOberos.png",
+     "frames": 9
+    },
+    "toranikulda": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/m12lkimogilafighter/kimogila.obj"
+     ],
+     "tex": "/models-tts/m12lkimogilafighter/Textures/ToraniKulda.png",
+     "frames": 9
+    }
+   }
+  },
+  "scurrgh6bomber": {
+   "id": "tts/scurrgh6bomber",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/scurrgh6bomber/scurrg.obj"
+     ],
+     "tex": "/models-tts/scurrgh6bomber/Textures/red.png",
+     "frames": 9
+    },
+    "orange": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scurrgh6bomber/scurrg.obj"
+     ],
+     "tex": "/models-tts/scurrgh6bomber/Textures/orange.png",
+     "frames": 9
+    }
+   }
+  },
+  "st70assaultship": {
+   "id": "tts/st70assaultship",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/st70assaultship/razorcrest.obj"
+     ],
+     "tex": "/models-tts/st70assaultship/plain.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/st70assaultship/razorcrest.obj"
+     ],
+     "tex": "/models-tts/st70assaultship/plain.jpg",
+     "frames": 9
+    },
+    "guildbountyhunter": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/st70assaultship/razorcrest.obj"
+     ],
+     "tex": "/models-tts/st70assaultship/textures/guildbountyhunter.jpg",
+     "frames": 9
+    },
+    "mandalorian": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/st70assaultship/razorcrest.obj"
+     ],
+     "tex": "/models-tts/st70assaultship/textures/mandalorian.png",
+     "frames": 9
+    }
+   }
+  },
+  "tiecapunisher": {
+   "id": "tts/tiecapunisher",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tiecapunisher/TiePunisher.obj"
+     ],
+     "tex": "/models-tts/tiecapunisher/textures/tiecapunisherblue.jpg",
+     "frames": 9
+    },
+    "tiecapunisherblue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiecapunisher/TiePunisher.obj"
+     ],
+     "tex": "/models-tts/tiecapunisher/textures/tiecapunisherblue.jpg",
+     "frames": 9
+    },
+    "tiecapunishergrey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tiecapunisher/TiePunisher.obj"
+     ],
+     "tex": "/models-tts/tiecapunisher/textures/tiecapunishergrey.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tierbheavy": {
+   "id": "tts/tierbheavy",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tierbheavy/tieheavy.obj"
+     ],
+     "tex": "/models-tts/tierbheavy/textures/tierbheavyblue.jpg",
+     "frames": 9
+    },
+    "tierbheavyblue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tierbheavy/tieheavy.obj"
+     ],
+     "tex": "/models-tts/tierbheavy/textures/tierbheavyblue.jpg",
+     "frames": 9
+    },
+    "tierbheavygrey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tierbheavy/tieheavy.obj"
+     ],
+     "tex": "/models-tts/tierbheavy/textures/tierbheavygrey.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tierereaper": {
+   "id": "tts/tierereaper",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tierereaper/tiereaper.obj"
+     ],
+     "tex": "/models-tts/tierereaper/textures/tierereaperblue.jpg",
+     "frames": 9
+    },
+    "tierereaperblue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tierereaper/tiereaper.obj"
+     ],
+     "tex": "/models-tts/tierereaper/textures/tierereaperblue.jpg",
+     "frames": 9
+    },
+    "tierereapergrey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tierereaper/tiereaper.obj"
+     ],
+     "tex": "/models-tts/tierereaper/textures/tierereapergrey.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "ut60duwing": {
+   "id": "tts/ut60duwing",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/ut60duwing/UWing_Close.obj"
+     ],
+     "tex": "/models-tts/ut60duwing/Textures/standard.jpg",
+     "frames": 9
+    },
+    "captain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/ut60duwing/UWing_Close.obj"
+     ],
+     "tex": "/models-tts/ut60duwing/Textures/captain.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/ut60duwing/UWing_Close.obj"
+     ],
+     "tex": "/models-tts/ut60duwing/Textures/plain.jpg",
+     "frames": 9
+    },
+    "rebel": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/ut60duwing/UWing_Close.obj"
+     ],
+     "tex": "/models-tts/ut60duwing/Textures/rebel.jpg",
+     "frames": 9
+    },
+    "renegade": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/ut60duwing/UWing_Close.obj"
+     ],
+     "tex": "/models-tts/ut60duwing/Textures/renegade.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/ut60duwing/UWing_Close.obj"
+     ],
+     "tex": "/models-tts/ut60duwing/Textures/standard.jpg",
+     "frames": 9
+    },
+    "yellow": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/ut60duwing/UWing_Close.obj"
+     ],
+     "tex": "/models-tts/ut60duwing/Textures/yellow.jpg",
+     "frames": 9
+    },
+    "mesh_UWing_Open": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/ut60duwing/UWing_Open.obj"
+     ],
+     "tex": "/models-tts/ut60duwing/Textures/standard.jpg",
+     "frames": 9
+    },
+    "mesh_UwingOpen": {
+     "kind": "mesh_config",
+     "objs": [
+      "/models-tts/ut60duwing/UwingOpen.obj"
+     ],
+     "tex": "/models-tts/ut60duwing/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "customizedyt1300lightfreighter": {
+   "id": "tts/customizedyt1300lightfreighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+     ],
+     "tex": "/models-tts/customizedyt1300lightfreighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "blacksun": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+     ],
+     "tex": "/models-tts/customizedyt1300lightfreighter/Textures/1/blacksun.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+     ],
+     "tex": "/models-tts/customizedyt1300lightfreighter/Textures/1/blue.jpg",
+     "frames": 9
+    },
+    "brown": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+     ],
+     "tex": "/models-tts/customizedyt1300lightfreighter/Textures/1/brown.jpg",
+     "frames": 9
+    },
+    "dark": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+     ],
+     "tex": "/models-tts/customizedyt1300lightfreighter/Textures/1/dark.jpg",
+     "frames": 9
+    },
+    "maul": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+     ],
+     "tex": "/models-tts/customizedyt1300lightfreighter/Textures/1/maul.jpg",
+     "frames": 9
+    },
+    "mytho": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+     ],
+     "tex": "/models-tts/customizedyt1300lightfreighter/Textures/1/mytho.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+     ],
+     "tex": "/models-tts/customizedyt1300lightfreighter/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+     ],
+     "tex": "/models-tts/customizedyt1300lightfreighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "yellow": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+     ],
+     "tex": "/models-tts/customizedyt1300lightfreighter/Textures/1/yellow.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "xiclasslightshuttle": {
+   "id": "tts/xiclasslightshuttle",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/xiclasslightshuttle/XiClassLightShuttle.obj"
+     ],
+     "tex": "/models-tts/xiclasslightshuttle/Textures/Dark.jpg",
+     "frames": 9
+    },
+    "dark": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/xiclasslightshuttle/XiClassLightShuttle.obj"
+     ],
+     "tex": "/models-tts/xiclasslightshuttle/Textures/Dark.jpg",
+     "frames": 9
+    },
+    "light": {
+     "kind": "pilot_mesh",
+     "objs": [
+      "/models-tts/xiclasslightshuttle/XiClassLightShuttle.obj"
+     ],
+     "tex": "/models-tts/xiclasslightshuttle/Textures/Light.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "gauntletfighter": {
+   "id": "tts/gauntletfighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/gauntletfighter/ship-base.obj",
+      "/models-tts/gauntletfighter/wings-normal.obj"
+     ],
+     "tex": "/models-tts/gauntletfighter/textures/Plain.jpg",
+     "frames": 9
+    },
+    "bokatan": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gauntletfighter/ship-base.obj",
+      "/models-tts/gauntletfighter/wings-normal.obj"
+     ],
+     "tex": "/models-tts/gauntletfighter/textures/BoKatan.jpg",
+     "frames": 9
+    },
+    "bokatancis": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gauntletfighter/ship-base.obj",
+      "/models-tts/gauntletfighter/wings-normal.obj"
+     ],
+     "tex": "/models-tts/gauntletfighter/textures/BoKatanCIS.jpg",
+     "frames": 9
+    },
+    "deathwatch": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gauntletfighter/ship-base.obj",
+      "/models-tts/gauntletfighter/wings-normal.obj"
+     ],
+     "tex": "/models-tts/gauntletfighter/textures/Deathwatch.jpg",
+     "frames": 9
+    },
+    "imperial": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gauntletfighter/ship-base.obj",
+      "/models-tts/gauntletfighter/wings-normal.obj"
+     ],
+     "tex": "/models-tts/gauntletfighter/textures/Imperial.jpg",
+     "frames": 9
+    },
+    "maul": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gauntletfighter/ship-base.obj",
+      "/models-tts/gauntletfighter/wings-normal.obj"
+     ],
+     "tex": "/models-tts/gauntletfighter/textures/Maul.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gauntletfighter/ship-base.obj",
+      "/models-tts/gauntletfighter/wings-normal.obj"
+     ],
+     "tex": "/models-tts/gauntletfighter/textures/Plain.jpg",
+     "frames": 9
+    },
+    "previzla": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gauntletfighter/ship-base.obj",
+      "/models-tts/gauntletfighter/wings-normal.obj"
+     ],
+     "tex": "/models-tts/gauntletfighter/textures/PreVizla.jpg",
+     "frames": 9
+    },
+    "scumcolours": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gauntletfighter/ship-base.obj",
+      "/models-tts/gauntletfighter/wings-normal.obj"
+     ],
+     "tex": "/models-tts/gauntletfighter/textures/ScumColours.jpg",
+     "frames": 9
+    },
+    "rebel": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gauntletfighter/ship-base.obj",
+      "/models-tts/gauntletfighter/wings-normal.obj"
+     ],
+     "tex": "/models-tts/gauntletfighter/textures/rebel.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "jumpmaster5000": {
+   "id": "tts/jumpmaster5000",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/jumpmaster5000/jm2k.obj"
+     ],
+     "tex": "/models-tts/jumpmaster5000/Textures/standard.jpg",
+     "frames": 9
+    },
+    "nomlumb": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/jumpmaster5000/jm2k.obj"
+     ],
+     "tex": "/models-tts/jumpmaster5000/Textures/NomLumb.png",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/jumpmaster5000/jm2k.obj"
+     ],
+     "tex": "/models-tts/jumpmaster5000/Textures/plain.jpg",
+     "frames": 9
+    },
+    "scout": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/jumpmaster5000/jm2k.obj"
+     ],
+     "tex": "/models-tts/jumpmaster5000/Textures/scout.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/jumpmaster5000/jm2k.obj"
+     ],
+     "tex": "/models-tts/jumpmaster5000/Textures/standard.jpg",
+     "frames": 9
+    },
+    "teltrevura": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/jumpmaster5000/jm2k.obj"
+     ],
+     "tex": "/models-tts/jumpmaster5000/Textures/teltrevura.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "lancerclasspursuitcraft": {
+   "id": "tts/lancerclasspursuitcraft",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/lancerclasspursuitcraft/lancer.obj"
+     ],
+     "tex": "/models-tts/lancerclasspursuitcraft/Textures/Standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/lancerclasspursuitcraft/lancer.obj"
+     ],
+     "tex": "/models-tts/lancerclasspursuitcraft/Textures/Standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "lambdaclasst4ashuttle": {
+   "id": "tts/lambdaclasst4ashuttle",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/lambdaclasst4ashuttle/lambdaclass.obj"
+     ],
+     "tex": "/models-tts/lambdaclasst4ashuttle/standard.png",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/lambdaclasst4ashuttle/lambdaclass.obj"
+     ],
+     "tex": "/models-tts/lambdaclasst4ashuttle/standard.png",
+     "frames": 9
+    }
+   }
+  },
+  "mg100starfortress": {
+   "id": "tts/mg100starfortress",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/mg100starfortress/starfortress.obj"
+     ],
+     "tex": "/models-tts/mg100starfortress/Textures/Standard.jpg",
+     "frames": 9
+    },
+    "paigetico": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/mg100starfortress/starfortress.obj"
+     ],
+     "tex": "/models-tts/mg100starfortress/Textures/PaigeTico.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/mg100starfortress/starfortress.obj"
+     ],
+     "tex": "/models-tts/mg100starfortress/Textures/Standard.jpg",
+     "frames": 9
+    },
+    "vennie": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/mg100starfortress/starfortress.obj"
+     ],
+     "tex": "/models-tts/mg100starfortress/Textures/Vennie.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "modifiedyt1300lightfreighter": {
+   "id": "tts/modifiedyt1300lightfreighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+     ],
+     "tex": "/models-tts/modifiedyt1300lightfreighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+     ],
+     "tex": "/models-tts/modifiedyt1300lightfreighter/Textures/1/blue.jpg",
+     "frames": 9
+    },
+    "brown": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+     ],
+     "tex": "/models-tts/modifiedyt1300lightfreighter/Textures/1/brown.jpg",
+     "frames": 9
+    },
+    "dark": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+     ],
+     "tex": "/models-tts/modifiedyt1300lightfreighter/Textures/1/dark.jpg",
+     "frames": 9
+    },
+    "dirty": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+     ],
+     "tex": "/models-tts/modifiedyt1300lightfreighter/Textures/1/dirty.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+     ],
+     "tex": "/models-tts/modifiedyt1300lightfreighter/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "rebel": {
+     "kind": "pilot_mesh",
+     "objs": [
+      "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+     ],
+     "tex": "/models-tts/modifiedyt1300lightfreighter/Textures/1/rebel.jpg",
+     "frames": 9
+    },
+    "sabine": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+     ],
+     "tex": "/models-tts/modifiedyt1300lightfreighter/Textures/1/sabine.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+     ],
+     "tex": "/models-tts/modifiedyt1300lightfreighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "yellow": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+     ],
+     "tex": "/models-tts/modifiedyt1300lightfreighter/Textures/1/yellow.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "scavengedyt1300lightfreighter": {
+   "id": "tts/scavengedyt1300lightfreighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "blackone": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/blackone.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/blue.jpg",
+     "frames": 9
+    },
+    "brown": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/brown.jpg",
+     "frames": 9
+    },
+    "classic": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/classic.jpg",
+     "frames": 9
+    },
+    "dark": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/dark.jpg",
+     "frames": 9
+    },
+    "plain": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/plain.jpg",
+     "frames": 9
+    },
+    "rebel": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/rebel.jpg",
+     "frames": 9
+    },
+    "sabine": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/sabine.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "yellow": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+     ],
+     "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/yellow.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "sithinfiltrator": {
+   "id": "tts/sithinfiltrator",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/sithinfiltrator/Infiltrator.obj"
+     ],
+     "tex": "/models-tts/sithinfiltrator/Textures/Standard.png",
+     "frames": 9
+    },
+    "darthmaul": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/sithinfiltrator/Infiltrator.obj"
+     ],
+     "tex": "/models-tts/sithinfiltrator/Textures/DarthMaul.png",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/sithinfiltrator/Infiltrator.obj"
+     ],
+     "tex": "/models-tts/sithinfiltrator/Textures/Standard.png",
+     "frames": 9
+    },
+    "maul": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/sithinfiltrator/Infiltrator.obj"
+     ],
+     "tex": "/models-tts/sithinfiltrator/Textures/maul.jpg",
+     "frames": 9
+    },
+    "white": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/sithinfiltrator/Infiltrator.obj"
+     ],
+     "tex": "/models-tts/sithinfiltrator/Textures/white.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "upsilonclasscommandshuttle": {
+   "id": "tts/upsilonclasscommandshuttle",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/upsilonclasscommandshuttle/Upsilon_Shuttle.obj"
+     ],
+     "tex": "/models-tts/upsilonclasscommandshuttle/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/upsilonclasscommandshuttle/Upsilon_Shuttle.obj"
+     ],
+     "tex": "/models-tts/upsilonclasscommandshuttle/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "vcx100lightfreighter": {
+   "id": "tts/vcx100lightfreighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/vcx100lightfreighter/vcx100.obj"
+     ],
+     "tex": "/models-tts/vcx100lightfreighter/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/vcx100lightfreighter/vcx100.obj"
+     ],
+     "tex": "/models-tts/vcx100lightfreighter/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "vt49decimator": {
+   "id": "tts/vt49decimator",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/vt49decimator/vt49decimator.obj"
+     ],
+     "tex": "/models-tts/vt49decimator/textures/grey.jpg",
+     "frames": 9
+    },
+    "black": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/vt49decimator/vt49decimator.obj"
+     ],
+     "tex": "/models-tts/vt49decimator/textures/black.jpg",
+     "frames": 9
+    },
+    "grey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/vt49decimator/vt49decimator.obj"
+     ],
+     "tex": "/models-tts/vt49decimator/textures/grey.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "yt2400lightfreighter": {
+   "id": "tts/yt2400lightfreighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/yt2400lightfreighter/yt2400.obj"
+     ],
+     "tex": "/models-tts/yt2400lightfreighter/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/yt2400lightfreighter/yt2400.obj"
+     ],
+     "tex": "/models-tts/yt2400lightfreighter/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "yv666lightfreighter": {
+   "id": "tts/yv666lightfreighter",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/yv666lightfreighter/yv666v2.obj"
+     ],
+     "tex": "/models-tts/yv666lightfreighter/Textures/1/standard.jpg",
+     "frames": 9
+    },
+    "aphra": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/yv666lightfreighter/yv666v2.obj"
+     ],
+     "tex": "/models-tts/yv666lightfreighter/Textures/1/aphra.jpg",
+     "frames": 9
+    },
+    "blacksun": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/yv666lightfreighter/yv666v2.obj"
+     ],
+     "tex": "/models-tts/yv666lightfreighter/Textures/1/blacksun.jpg",
+     "frames": 9
+    },
+    "grey": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/yv666lightfreighter/yv666v2.obj"
+     ],
+     "tex": "/models-tts/yv666lightfreighter/Textures/1/grey.jpg",
+     "frames": 9
+    },
+    "moralo": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/yv666lightfreighter/yv666v2.obj"
+     ],
+     "tex": "/models-tts/yv666lightfreighter/Textures/1/moralo.jpg",
+     "frames": 9
+    },
+    "mytho": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/yv666lightfreighter/yv666v2.obj"
+     ],
+     "tex": "/models-tts/yv666lightfreighter/Textures/1/mytho.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/yv666lightfreighter/yv666v2.obj"
+     ],
+     "tex": "/models-tts/yv666lightfreighter/Textures/1/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "cr90corelliancorvette": {
+   "id": "tts/cr90corelliancorvette",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/cr90corelliancorvette/cr90.obj"
+     ],
+     "tex": "/models-tts/cr90corelliancorvette/Textures/blue.jpg",
+     "frames": 9
+    },
+    "blue": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/cr90corelliancorvette/cr90.obj"
+     ],
+     "tex": "/models-tts/cr90corelliancorvette/Textures/blue.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "croccruiser": {
+   "id": "tts/croccruiser",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/croccruiser/croc.obj"
+     ],
+     "tex": "/models-tts/croccruiser/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/croccruiser/croc.obj"
+     ],
+     "tex": "/models-tts/croccruiser/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "gozanticlasscruiser": {
+   "id": "tts/gozanticlasscruiser",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/gozanticlasscruiser/gozanti.obj"
+     ],
+     "tex": "/models-tts/gozanticlasscruiser/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gozanticlasscruiser/gozanti.obj"
+     ],
+     "tex": "/models-tts/gozanticlasscruiser/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "gr75mediumtransport": {
+   "id": "tts/gr75mediumtransport",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/gr75mediumtransport/gr75.obj"
+     ],
+     "tex": "/models-tts/gr75mediumtransport/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/gr75mediumtransport/gr75.obj"
+     ],
+     "tex": "/models-tts/gr75mediumtransport/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "raiderclasscorvette": {
+   "id": "tts/raiderclasscorvette",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/raiderclasscorvette/raider.obj"
+     ],
+     "tex": "/models-tts/raiderclasscorvette/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/raiderclasscorvette/raider.obj"
+     ],
+     "tex": "/models-tts/raiderclasscorvette/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  },
+  "tridentclassassaultship": {
+   "id": "tts/tridentclassassaultship",
+   "family": "tts-v2",
+   "variants": {
+    "default": {
+     "kind": "default",
+     "objs": [
+      "/models-tts/tridentclassassaultship/trident.obj"
+     ],
+     "tex": "/models-tts/tridentclassassaultship/Textures/standard.jpg",
+     "frames": 9
+    },
+    "standard": {
+     "kind": "pilot_skin",
+     "objs": [
+      "/models-tts/tridentclassassaultship/trident.obj"
+     ],
+     "tex": "/models-tts/tridentclassassaultship/Textures/standard.jpg",
+     "frames": 9
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "ship": "btls8kwing",
+ "variant": "esegetuketu",
+ "kind": "pilot_skin",
+ "objs": [
+  "/models-tts/btls8kwing/kwing.obj"
+ ],
+ "tex": "/models-tts/btls8kwing/Textures/EsegeTuketu.png",
+ "files": [
+  "top_e000_y000.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

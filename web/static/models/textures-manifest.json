@@ -1,0 +1,226 @@
+{
+ "t65xwing": [
+  {
+   "tex": "blue.jpg",
+   "slug": "blue",
+   "out": "t65xwing-top.png",
+   "base": true
+  },
+  {
+   "tex": "LukeSkywalker.png",
+   "slug": "lukeskywalker",
+   "out": "t65xwing-lukeskywalker-top.png",
+   "base": false
+  },
+  {
+   "tex": "luke.jpg",
+   "slug": "lukejpg",
+   "out": "t65xwing-lukejpg-top.png",
+   "base": false
+  },
+  {
+   "tex": "wedge.jpg",
+   "slug": "wedge",
+   "out": "t65xwing-wedge-top.png",
+   "base": false
+  },
+  {
+   "tex": "red.jpg",
+   "slug": "red",
+   "out": "t65xwing-red-top.png",
+   "base": false
+  }
+ ],
+ "tiefofighter": [
+  {
+   "tex": "standard.jpg",
+   "slug": "standard",
+   "out": "tiefofighter-top.png",
+   "base": true
+  }
+ ],
+ "delta7aethersprite": [
+  {
+   "tex": "plain.jpg",
+   "slug": "plain",
+   "out": "delta7aethersprite-top.png",
+   "base": true
+  },
+  {
+   "tex": "MaceWindu.jpg",
+   "slug": "macewindu",
+   "out": "delta7aethersprite-macewindu-top.png",
+   "base": false
+  },
+  {
+   "tex": "AnakinSkywalker.jpg",
+   "slug": "anakinskywalker",
+   "out": "delta7aethersprite-anakinskywalker-top.png",
+   "base": false
+  },
+  {
+   "tex": "PloKoon.jpg",
+   "slug": "plokoon",
+   "out": "delta7aethersprite-plokoon-top.png",
+   "base": false
+  },
+  {
+   "tex": "Obi-WanKenobi.jpg",
+   "slug": "obiwankenobi",
+   "out": "delta7aethersprite-obiwankenobi-top.png",
+   "base": false
+  }
+ ],
+ "clonez95headhunter": [
+  {
+   "tex": "standard.jpg",
+   "slug": "standard",
+   "out": "clonez95headhunter-top.png",
+   "base": true
+  },
+  {
+   "tex": "black.jpg",
+   "slug": "black",
+   "out": "clonez95headhunter-black-top.png",
+   "base": false
+  },
+  {
+   "tex": "blue.jpg",
+   "slug": "blue",
+   "out": "clonez95headhunter-blue-top.png",
+   "base": false
+  }
+ ],
+ "arc170starfighter": [
+  {
+   "tex": "republic.png",
+   "slug": "republic",
+   "out": "arc170starfighter-top.png",
+   "base": true
+  }
+ ],
+ "btla4ywing": [
+  {
+   "tex": "gold.png",
+   "slug": "gold",
+   "out": "btla4ywing-top.png",
+   "base": true
+  }
+ ],
+ "tieininterceptor": [
+  {
+   "tex": "tieininterceptorblue.jpg",
+   "slug": "blue",
+   "out": "tieininterceptor-top.png",
+   "base": true
+  },
+  {
+   "tex": "tieininterceptorgrey.jpg",
+   "slug": "grey",
+   "out": "tieininterceptor-grey-top.png",
+   "base": false
+  },
+  {
+   "tex": "tieininterceptorred.jpg",
+   "slug": "red",
+   "out": "tieininterceptor-red-top.png",
+   "base": false
+  },
+  {
+   "tex": "tieininterceptorss.jpg",
+   "slug": "ss",
+   "out": "tieininterceptor-ss-top.png",
+   "base": false
+  },
+  {
+   "tex": "tieinterceptor181.jpg",
+   "slug": "181",
+   "out": "tieininterceptor-181-top.png",
+   "base": false
+  }
+ ],
+ "tieadvancedx1": [
+  {
+   "tex": "tieadvancedx1blue.jpg",
+   "slug": "blue",
+   "out": "tieadvancedx1-top.png",
+   "base": true
+  },
+  {
+   "tex": "tieadvancedx1grey.jpg",
+   "slug": "grey",
+   "out": "tieadvancedx1-grey-top.png",
+   "base": false
+  }
+ ],
+ "rz1awing": [
+  {
+   "tex": "GreenSquadronPilot.png",
+   "slug": "greenq",
+   "out": "rz1awing-top.png",
+   "base": true
+  },
+  {
+   "tex": "GreenSquadronPilot.png",
+   "slug": "greensquadronpilot",
+   "out": "rz1awing-greensquadronpilot-top.png",
+   "base": false
+  },
+  {
+   "tex": "ArvelCrynyd.png",
+   "slug": "arvelcrynyd",
+   "out": "rz1awing-arvelcrynyd-top.png",
+   "base": false
+  },
+  {
+   "tex": "JakeFarrell.png",
+   "slug": "jakefarrell",
+   "out": "rz1awing-jakefarrell-top.png",
+   "base": false
+  },
+  {
+   "tex": "SabineWren.png",
+   "slug": "sabinewren",
+   "out": "rz1awing-sabinewren-top.png",
+   "base": false
+  },
+  {
+   "tex": "HeraSyndulla.png",
+   "slug": "herasyndulla",
+   "out": "rz1awing-herasyndulla-top.png",
+   "base": false
+  },
+  {
+   "tex": "SharaBey.png",
+   "slug": "sharabey",
+   "out": "rz1awing-sharabey-top.png",
+   "base": false
+  }
+ ],
+ "rz2awing": [
+  {
+   "tex": "blue.png",
+   "slug": "blue",
+   "out": "rz2awing-top.png",
+   "base": true
+  },
+  {
+   "tex": "green.png",
+   "slug": "green",
+   "out": "rz2awing-green-top.png",
+   "base": false
+  },
+  {
+   "tex": "orange.png",
+   "slug": "orange",
+   "out": "rz2awing-orange-top.png",
+   "base": false
+  },
+  {
+   "tex": "red.png",
+   "slug": "red",
+   "out": "rz2awing-red-top.png",
+   "base": false
+  }
+ ]
+}

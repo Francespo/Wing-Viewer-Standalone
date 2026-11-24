@@ -1,0 +1,25 @@
+{
+ "key": "Core4",
+ "kind": "asteroid",
+ "obj": "models/obstacles/Core4-model.obj",
+ "tex": null,
+ "win_mm": 42,
+ "ppm": 0,
+ "px": 512,
+ "bbox_mm": [
+  35.1,
+  0.7,
+  25.5
+ ],
+ "files": [
+  "top.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

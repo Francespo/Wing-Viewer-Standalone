@@ -1,0 +1,20 @@
+{
+ "ship": "scavengedyt1300lightfreighter",
+ "variant": "plain",
+ "kind": "pilot_skin",
+ "objs": [
+  "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+ ],
+ "tex": "/models-tts/scavengedyt1300lightfreighter/Textures/1/plain.jpg",
+ "files": [
+  "top_e000_y000.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "key": "Core5",
+ "kind": "asteroid",
+ "obj": "models/obstacles/Core5-model.obj",
+ "tex": null,
+ "win_mm": 37,
+ "ppm": 0,
+ "px": 512,
+ "bbox_mm": [
+  29.2,
+  0.7,
+  30.6
+ ],
+ "files": [
+  "top.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

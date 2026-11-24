@@ -1,0 +1,25 @@
+{
+ "key": "GasCloud1",
+ "kind": "gas_cloud",
+ "obj": "models/obstacles/GasCloud1-model.obj",
+ "tex": null,
+ "win_mm": 59,
+ "ppm": 0,
+ "px": 512,
+ "bbox_mm": [
+  21.6,
+  1,
+  49.3
+ ],
+ "files": [
+  "top.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

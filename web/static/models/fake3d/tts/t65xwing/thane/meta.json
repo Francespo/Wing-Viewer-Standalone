@@ -1,0 +1,21 @@
+{
+ "ship": "t65xwing",
+ "variant": "thane",
+ "kind": "pilot_skin",
+ "objs": [
+  "/models-tts/t65xwing/xwing_base.obj",
+  "/models-tts/t65xwing/xwing_open.obj"
+ ],
+ "tex": "/models-tts/t65xwing/Textures/1/thane.jpg",
+ "files": [
+  "top_e000_y000.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

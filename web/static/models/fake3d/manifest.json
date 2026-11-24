@@ -1,0 +1,128 @@
+{
+ "generated": "2026-11-21T23:17:13.420Z",
+ "jobs": {
+  "tiefofighter": {
+   "size": "small",
+   "obj": "TieFO.obj",
+   "tex": "Textures/1/standard.jpg",
+   "win_mm": 91,
+   "fp_mm": [
+    78.3,
+    36.2
+   ],
+   "ppm": 8,
+   "px": 728,
+   "yaw_top": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330
+   ],
+   "yaw_persp": [
+    0,
+    45,
+    90,
+    135,
+    180,
+    225,
+    270,
+    315
+   ],
+   "elev_top": 0,
+   "elev_persp": 35,
+   "frames": [
+    "top_yaw000_elev0.png",
+    "top_yaw030_elev0.png",
+    "top_yaw060_elev0.png",
+    "top_yaw090_elev0.png",
+    "top_yaw120_elev0.png",
+    "top_yaw150_elev0.png",
+    "top_yaw180_elev0.png",
+    "top_yaw210_elev0.png",
+    "top_yaw240_elev0.png",
+    "top_yaw270_elev0.png",
+    "top_yaw300_elev0.png",
+    "top_yaw330_elev0.png",
+    "persp_yaw000_elev35.png",
+    "persp_yaw045_elev35.png",
+    "persp_yaw090_elev35.png",
+    "persp_yaw135_elev35.png",
+    "persp_yaw180_elev35.png",
+    "persp_yaw225_elev35.png",
+    "persp_yaw270_elev35.png",
+    "persp_yaw315_elev35.png"
+   ],
+   "ok": true
+  },
+  "t65xwing": {
+   "size": "small",
+   "obj": "xwing_closed.obj",
+   "tex": "blue.jpg",
+   "win_mm": 51,
+   "fp_mm": [
+    43.5,
+    30.7
+   ],
+   "ppm": 8,
+   "px": 408,
+   "yaw_top": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330
+   ],
+   "yaw_persp": [
+    0,
+    45,
+    90,
+    135,
+    180,
+    225,
+    270,
+    315
+   ],
+   "elev_top": 0,
+   "elev_persp": 35,
+   "frames": [
+    "top_yaw000_elev0.png",
+    "top_yaw030_elev0.png",
+    "top_yaw060_elev0.png",
+    "top_yaw090_elev0.png",
+    "top_yaw120_elev0.png",
+    "top_yaw150_elev0.png",
+    "top_yaw180_elev0.png",
+    "top_yaw210_elev0.png",
+    "top_yaw240_elev0.png",
+    "top_yaw270_elev0.png",
+    "top_yaw300_elev0.png",
+    "top_yaw330_elev0.png",
+    "persp_yaw000_elev35.png",
+    "persp_yaw045_elev35.png",
+    "persp_yaw090_elev35.png",
+    "persp_yaw135_elev35.png",
+    "persp_yaw180_elev35.png",
+    "persp_yaw225_elev35.png",
+    "persp_yaw270_elev35.png",
+    "persp_yaw315_elev35.png"
+   ],
+   "ok": true
+  }
+ },
+ "failures": []
+}

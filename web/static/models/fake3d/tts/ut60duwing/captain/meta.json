@@ -1,0 +1,20 @@
+{
+ "ship": "ut60duwing",
+ "variant": "captain",
+ "kind": "pilot_skin",
+ "objs": [
+  "/models-tts/ut60duwing/UWing_Close.obj"
+ ],
+ "tex": "/models-tts/ut60duwing/Textures/captain.jpg",
+ "files": [
+  "top_e000_y000.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

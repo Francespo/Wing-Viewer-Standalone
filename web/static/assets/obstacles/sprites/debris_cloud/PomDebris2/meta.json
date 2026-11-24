@@ -1,0 +1,25 @@
+{
+ "key": "PomDebris2",
+ "kind": "debris_cloud",
+ "obj": "models/obstacles/PomDebris2.obj",
+ "tex": "models/obstacles/PomDebris2.png",
+ "win_mm": 20,
+ "ppm": 0,
+ "px": 512,
+ "bbox_mm": [
+  16.7,
+  0.4,
+  15.7
+ ],
+ "files": [
+  "top.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

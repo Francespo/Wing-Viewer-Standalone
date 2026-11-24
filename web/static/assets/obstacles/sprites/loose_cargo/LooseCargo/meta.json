@@ -1,0 +1,25 @@
+{
+ "key": "LooseCargo",
+ "kind": "loose_cargo",
+ "obj": "models/obstacles/LooseCargo.obj",
+ "tex": "models/obstacles/cargo.jpg",
+ "win_mm": 97,
+ "ppm": 0,
+ "px": 512,
+ "bbox_mm": [
+  80.9,
+  0.7,
+  43.4
+ ],
+ "files": [
+  "top.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

@@ -1,0 +1,2958 @@
+{
+ "generated": "2026-11-22T12:35:45.294Z",
+ "angles": {
+  "top": [
+   0,
+   0
+  ],
+  "tilts": [
+   [
+    30,
+    0
+   ],
+   [
+    30,
+    90
+   ],
+   [
+    30,
+    180
+   ],
+   [
+    30,
+    270
+   ],
+   [
+    60,
+    0
+   ],
+   [
+    60,
+    90
+   ],
+   [
+    60,
+    180
+   ],
+   [
+    60,
+    270
+   ]
+  ]
+ },
+ "jobs": {
+  "tts__attackshuttle": {
+   "id": "tts/attackshuttle",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/attackshuttle/attackshuttle.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__asf01bwing": {
+   "id": "tts/asf01bwing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/asf01bwing/bwing-base.obj",
+    "/models-tts/asf01bwing/bwing-closed.obj"
+   ],
+   "variants": {
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blade": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "braylen": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__auzituckgunship": {
+   "id": "tts/auzituckgunship",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/auzituckgunship/auzituck.obj"
+   ],
+   "variants": {
+    "cream": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "orange": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tarfful": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__belbulab22starfighter": {
+   "id": "tts/belbulab22starfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/belbulab22starfighter/Belbullab.obj"
+   ],
+   "variants": {
+    "belbullab": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "hotrod": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "wattambor": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__btanr2ywing": {
+   "id": "tts/btanr2ywing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/btanr2ywing/RIS_Y-Wing.obj"
+   ],
+   "variants": {
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "caithrenalli": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "coruskapellim": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__btla4ywing": {
+   "id": "tts/btla4ywing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/btla4ywing/btla4_ywingv2.obj"
+   ],
+   "variants": {
+    "jinatasecurityofficer": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "amaxine": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "crymorah": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__btlbywing": {
+   "id": "tts/btlbywing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/btlbywing/BTLB_YWING.obj"
+   ],
+   "variants": {
+    "black": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "green": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__clonez95headhunter": {
+   "id": "tts/clonez95headhunter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/clonez95headhunter/CloneZ95.obj"
+   ],
+   "variants": {
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "black": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "plain": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__droidtrifighter": {
+   "id": "tts/droidtrifighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/droidtrifighter/CIS_Tri-Fighter.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__delta7aethersprite": {
+   "id": "tts/delta7aethersprite",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/delta7aethersprite/Jedi_Delta7_tint.obj"
+   ],
+   "variants": {
+    "delta7": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "delta7b": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "ahsokatano": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__escapecraft": {
+   "id": "tts/escapecraft",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/escapecraft/escapecraft.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__eta2actis": {
+   "id": "tts/eta2actis",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/eta2actis/eta2actis.obj"
+   ],
+   "variants": {
+    "aaylasecura": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "jedigeneral": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "obiwankenobi": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__ewing": {
+   "id": "tts/ewing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/ewing/ewing.obj"
+   ],
+   "variants": {
+    "gavindarklighter": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "knavesquadronescort": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "roguesquadronescort": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__fireball": {
+   "id": "tts/fireball",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/fireball/fireball.obj"
+   ],
+   "variants": {
+    "doza": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__fangfighter": {
+   "id": "tts/fangfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/fangfighter/ship-base.obj"
+   ],
+   "variants": {
+    "bodica": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "dirk": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "new": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__hmpdroidgunship": {
+   "id": "tts/hmpdroidgunship",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/hmpdroidgunship/HMP_GunshipSlipping.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__hwk290lightfreighter": {
+   "id": "tts/hwk290lightfreighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/hwk290lightfreighter/hwk.obj"
+   ],
+   "variants": {
+    "black": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "brown": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "kasmir": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__hyenaclassdroidbomber": {
+   "id": "tts/hyenaclassdroidbomber",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/hyenaclassdroidbomber/Hyena_Open.obj"
+   ],
+   "variants": {
+    "baktoid": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "fourohfour": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "plain": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__kihraxzfighter": {
+   "id": "tts/kihraxzfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/kihraxzfighter/khiraxz.obj"
+   ],
+   "variants": {
+    "blacksun": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "green": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "orange": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__modifiedtielnfighter": {
+   "id": "tts/modifiedtielnfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/modifiedtielnfighter/miningguildtie.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__m3ainterceptor": {
+   "id": "tts/m3ainterceptor",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/m3ainterceptor/m3a.obj"
+   ],
+   "variants": {
+    "cartelspacer": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "g4rg0r": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "genesisred": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__nabooroyaln1starfighter": {
+   "id": "tts/nabooroyaln1starfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/nabooroyaln1starfighter/MandoN1.obj"
+   ],
+   "variants": {
+    "silver": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "yellow": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "black": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__nantexclassstarfighter": {
+   "id": "tts/nantexclassstarfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/nantexclassstarfighter/Nantex.obj"
+   ],
+   "variants": {
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "white": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__quadrijettransferspacetug": {
+   "id": "tts/quadrijettransferspacetug",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/quadrijettransferspacetug/quadjumper.obj"
+   ],
+   "variants": {
+    "mining": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "quadjumper": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__nimbusclassvwing": {
+   "id": "tts/nimbusclassvwing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/nimbusclassvwing/vwing.obj"
+   ],
+   "variants": {
+    "vwingblue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "vwingred": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "black": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__resistancetransportpod": {
+   "id": "tts/resistancetransportpod",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/resistancetransportpod/transport_pod.obj"
+   ],
+   "variants": {
+    "dj": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "plain": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "plain2": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__resistancetransport": {
+   "id": "tts/resistancetransport",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/resistancetransport/transport.obj"
+   ],
+   "variants": {
+    "jannah": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "plain": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "red": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__rogueclassstarfighter": {
+   "id": "tts/rogueclassstarfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/rogueclassstarfighter/rogueclass.obj"
+   ],
+   "variants": {
+    "cis": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "rogue-class-green": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "rogue-class-grey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__rz1awing": {
+   "id": "tts/rz1awing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/rz1awing/rz1awing.obj"
+   ],
+   "variants": {
+    "arvelcrynyd": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "greensquadronpilot": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "herasyndulla": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__sheathipedeclassshuttle": {
+   "id": "tts/sheathipedeclassshuttle",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/sheathipedeclassshuttle/Sheathipede2.obj"
+   ],
+   "variants": {
+    "sheathipede": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__rz2awing": {
+   "id": "tts/rz2awing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/rz2awing/res_awing.obj"
+   ],
+   "variants": {
+    "green": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "orange": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "red": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__starviperclassattackplatform": {
+   "id": "tts/starviperclassattackplatform",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/starviperclassattackplatform/starviper.obj"
+   ],
+   "variants": {
+    "blacksunassassin": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blacksunenforcer": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__t65xwing": {
+   "id": "tts/t65xwing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/t65xwing/xwing_base.obj",
+    "/models-tts/t65xwing/xwing_open.obj"
+   ],
+   "variants": {
+    "biggs": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "cavernangels": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__t70xwing": {
+   "id": "tts/t70xwing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/t70xwing/t70_base.obj",
+    "/models-tts/t70xwing/t70_open.obj"
+   ],
+   "variants": {
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "plain": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "poe": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tieadvancedv1": {
+   "id": "tts/tieadvancedv1",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tieadvancedv1/tieadvv1.obj"
+   ],
+   "variants": {
+    "tieadvancedv1grey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tieadvancedv1blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tieadvancedx1": {
+   "id": "tts/tieadvancedx1",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tieadvancedx1/tieadvancedx1v2.obj"
+   ],
+   "variants": {
+    "tieadvancedx1grey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tieadvancedx1blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tieagaggressor": {
+   "id": "tts/tieagaggressor",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tieagaggressor/tieagaggressor.obj"
+   ],
+   "variants": {
+    "tie-aggressor-blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tie-aggressor-grey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tieagaggressorblue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tiebainterceptor": {
+   "id": "tts/tiebainterceptor",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tiebainterceptor/TieBaron.obj"
+   ],
+   "variants": {
+    "black": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "jank": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tiededefender": {
+   "id": "tts/tiededefender",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tiededefender/defender.obj"
+   ],
+   "variants": {
+    "kyber": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tiededefendergrey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tiededefenderred": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tiefofighter": {
+   "id": "tts/tiefofighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tiefofighter/TieFOv1.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "fn2187": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tie_fo": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tieininterceptor": {
+   "id": "tts/tieininterceptor",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tieininterceptor/tieinterceptor.obj"
+   ],
+   "variants": {
+    "tieininterceptorblue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tieininterceptorgrey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tieininterceptorred": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tielnfighter": {
+   "id": "tts/tielnfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tielnfighter/TIE_LN.obj"
+   ],
+   "variants": {
+    "tie-fighter-grey2": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tie-fighter-inferno2": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tie-fighter-rebel": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tiesebomber": {
+   "id": "tts/tiesebomber",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tiesebomber/tie_se.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tiesabomber": {
+   "id": "tts/tiesabomber",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tiesabomber/tiebomber.obj"
+   ],
+   "variants": {
+    "tiesabombergrey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tiesabomberblue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tieskstriker": {
+   "id": "tts/tieskstriker",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tieskstriker/tiestriker.obj"
+   ],
+   "variants": {
+    "tieskstrikerblue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tiesffighter": {
+   "id": "tts/tiesffighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tiesffighter/Tie_SF.obj"
+   ],
+   "variants": {
+    "strife": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tievnsilencer": {
+   "id": "tts/tievnsilencer",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tievnsilencer/Tie_VN2.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tiewiwhispermodifiedinterceptor": {
+   "id": "tts/tiewiwhispermodifiedinterceptor",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tiewiwhispermodifiedinterceptor/TIE_Wi.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__v19torrentstarfighter": {
+   "id": "tts/v19torrentstarfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/v19torrentstarfighter/V-19_Torrent.obj"
+   ],
+   "variants": {
+    "black": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "logo": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__vultureclassdroidfighter": {
+   "id": "tts/vultureclassdroidfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/vultureclassdroidfighter/Vulture_Open.obj"
+   ],
+   "variants": {
+    "00m": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "dfs-081": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "dfs-311": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__aggressorassaultfighter": {
+   "id": "tts/aggressorassaultfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/aggressorassaultfighter/aggressor.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__z95af4headhunter": {
+   "id": "tts/z95af4headhunter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/z95af4headhunter/z95.obj"
+   ],
+   "variants": {
+    "bandit": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "binayre": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blacksun": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__arc170starfighter": {
+   "id": "tts/arc170starfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/arc170starfighter/arc170.obj"
+   ],
+   "variants": {
+    "black": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "rebel": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "republic": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__btls8kwing": {
+   "id": "tts/btls8kwing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/btls8kwing/kwing.obj"
+   ],
+   "variants": {
+    "esegetuketu": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "mirandadoni": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__g1astarfighter": {
+   "id": "tts/g1astarfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/g1astarfighter/g1a.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__firesprayclasspatrolcraft": {
+   "id": "tts/firesprayclasspatrolcraft",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/firesprayclasspatrolcraft/firespray.obj"
+   ],
+   "variants": {
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "boba": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "bountyhunter": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__laatigunship": {
+   "id": "tts/laatigunship",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/laatigunship/LAAT.obj"
+   ],
+   "variants": {
+    "black": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "hound1": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__m12lkimogilafighter": {
+   "id": "tts/m12lkimogilafighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/m12lkimogilafighter/kimogila.obj"
+   ],
+   "variants": {
+    "dalanoberos": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "toranikulda": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__scurrgh6bomber": {
+   "id": "tts/scurrgh6bomber",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/scurrgh6bomber/scurrg.obj"
+   ],
+   "variants": {
+    "orange": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tiecapunisher": {
+   "id": "tts/tiecapunisher",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tiecapunisher/TiePunisher.obj"
+   ],
+   "variants": {
+    "tiecapunishergrey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tiecapunisherblue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__st70assaultship": {
+   "id": "tts/st70assaultship",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/st70assaultship/razorcrest.obj"
+   ],
+   "variants": {
+    "guildbountyhunter": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "mandalorian": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "plain": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tierbheavy": {
+   "id": "tts/tierbheavy",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tierbheavy/tieheavy.obj"
+   ],
+   "variants": {
+    "tierbheavygrey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tierbheavyblue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tierereaper": {
+   "id": "tts/tierereaper",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tierereaper/tiereaper.obj"
+   ],
+   "variants": {
+    "tierereapergrey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "tierereaperblue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__xiclasslightshuttle": {
+   "id": "tts/xiclasslightshuttle",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/xiclasslightshuttle/XiClassLightShuttle.obj"
+   ],
+   "variants": {
+    "light": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__ut60duwing": {
+   "id": "tts/ut60duwing",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/ut60duwing/UWing_Close.obj"
+   ],
+   "variants": {
+    "captain": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "plain": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "rebel": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__customizedyt1300lightfreighter": {
+   "id": "tts/customizedyt1300lightfreighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/customizedyt1300lightfreighter/yt1300customized.obj"
+   ],
+   "variants": {
+    "blacksun": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "brown": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__gauntletfighter": {
+   "id": "tts/gauntletfighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/gauntletfighter/ship-base.obj",
+    "/models-tts/gauntletfighter/wings-normal.obj"
+   ],
+   "variants": {
+    "bokatan": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "bokatancis": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "deathwatch": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__jumpmaster5000": {
+   "id": "tts/jumpmaster5000",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/jumpmaster5000/jm2k.obj"
+   ],
+   "variants": {
+    "nomlumb": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "plain": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "scout": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__lancerclasspursuitcraft": {
+   "id": "tts/lancerclasspursuitcraft",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/lancerclasspursuitcraft/lancer.obj"
+   ],
+   "variants": {}
+  },
+  "tts__lambdaclasst4ashuttle": {
+   "id": "tts/lambdaclasst4ashuttle",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/lambdaclasst4ashuttle/lambdaclass.obj"
+   ],
+   "variants": {
+    "default": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__mg100starfortress": {
+   "id": "tts/mg100starfortress",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/mg100starfortress/starfortress.obj"
+   ],
+   "variants": {
+    "paigetico": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "vennie": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__modifiedyt1300lightfreighter": {
+   "id": "tts/modifiedyt1300lightfreighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/modifiedyt1300lightfreighter/rebel_falcon.obj"
+   ],
+   "variants": {
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "brown": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "dark": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__scavengedyt1300lightfreighter": {
+   "id": "tts/scavengedyt1300lightfreighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/scavengedyt1300lightfreighter/scavengedyt1300.obj"
+   ],
+   "variants": {
+    "blackone": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "brown": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__sithinfiltrator": {
+   "id": "tts/sithinfiltrator",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/sithinfiltrator/Infiltrator.obj"
+   ],
+   "variants": {
+    "darthmaul": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "maul": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "red": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__upsilonclasscommandshuttle": {
+   "id": "tts/upsilonclasscommandshuttle",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/upsilonclasscommandshuttle/Upsilon_Shuttle.obj"
+   ],
+   "variants": {
+    "red": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__vcx100lightfreighter": {
+   "id": "tts/vcx100lightfreighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/vcx100lightfreighter/vcx100.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__vt49decimator": {
+   "id": "tts/vt49decimator",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/vt49decimator/vt49decimator.obj"
+   ],
+   "variants": {
+    "black": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__yt2400lightfreighter": {
+   "id": "tts/yt2400lightfreighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/yt2400lightfreighter/yt2400.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__yv666lightfreighter": {
+   "id": "tts/yv666lightfreighter",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/yv666lightfreighter/yv666v2.obj"
+   ],
+   "variants": {
+    "aphra": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blacksun": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "grey": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__cr90corelliancorvette": {
+   "id": "tts/cr90corelliancorvette",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/cr90corelliancorvette/cr90.obj"
+   ],
+   "variants": {
+    "red": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ],
+    "blue": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__croccruiser": {
+   "id": "tts/croccruiser",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/croccruiser/croc.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__gozanticlasscruiser": {
+   "id": "tts/gozanticlasscruiser",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/gozanticlasscruiser/gozanti.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__gr75mediumtransport": {
+   "id": "tts/gr75mediumtransport",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/gr75mediumtransport/gr75.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__raiderclasscorvette": {
+   "id": "tts/raiderclasscorvette",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/raiderclasscorvette/raider.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  },
+  "tts__tridentclassassaultship": {
+   "id": "tts/tridentclassassaultship",
+   "family": "tts-v2",
+   "objs": [
+    "/models-tts/tridentclassassaultship/trident.obj"
+   ],
+   "variants": {
+    "standard": [
+     "top_e000_y000.png",
+     "tilt_e030_y000.png",
+     "tilt_e030_y090.png",
+     "tilt_e030_y180.png",
+     "tilt_e030_y270.png",
+     "tilt_e060_y000.png",
+     "tilt_e060_y090.png",
+     "tilt_e060_y180.png",
+     "tilt_e060_y270.png"
+    ]
+   }
+  }
+ }
+}

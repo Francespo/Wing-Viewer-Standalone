@@ -1,0 +1,2106 @@
+{
+ "source": "/root/assets.tar",
+ "counts": {
+  "dial": 302,
+  "UI-images": 12,
+  "Items": 91,
+  "Cards": 11,
+  "bases": 105
+ },
+ "assets": {
+  "dial": [
+   {
+    "src": "/assets2d/dial/actions/128x128/calculate.png",
+    "bytes": 27785
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/cloak.png",
+    "bytes": 31869
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/disarm.png",
+    "bytes": 35287
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/dock.png",
+    "bytes": 17864
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/evade.png",
+    "bytes": 24261
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/focus.png",
+    "bytes": 26479
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/ion.png",
+    "bytes": 34567
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/jam.png",
+    "bytes": 30663
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/Pivot180.png",
+    "bytes": 15060
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/Pivot90Left.png",
+    "bytes": 16530
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/Pivot90Right.png",
+    "bytes": 16584
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/reinforce.png",
+    "bytes": 28694
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/RotateAntiHorario.png",
+    "bytes": 18456
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/RotateHorario.png",
+    "bytes": 18080
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/strain.png",
+    "bytes": 27167
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/stress.png",
+    "bytes": 23088
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/TL.png",
+    "bytes": 26858
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/tractor.png",
+    "bytes": 30365
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/TrollFront.png",
+    "bytes": 12069
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/TrollMid.png",
+    "bytes": 12061
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/TrollRear.png",
+    "bytes": 11892
+   },
+   {
+    "src": "/assets2d/dial/actions/128x128/undock.png",
+    "bytes": 18011
+   },
+   {
+    "src": "/assets2d/dial/actions/Actions.png",
+    "bytes": 15039
+   },
+   {
+    "src": "/assets2d/dial/actions/ActionsClose.png",
+    "bytes": 17282
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/Arc-RangeMENU.png",
+    "bytes": 28533
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/bullseye.png",
+    "bytes": 23459
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/doublearc.png",
+    "bytes": 31037
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/Front.png",
+    "bytes": 20660
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/FullBack.png",
+    "bytes": 30912
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/FullFront.png",
+    "bytes": 30874
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/Left.png",
+    "bytes": 20742
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/Rear.png",
+    "bytes": 20274
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/Right.png",
+    "bytes": 20304
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/RR1.png",
+    "bytes": 17974
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/RR2.png",
+    "bytes": 18387
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/RR3.png",
+    "bytes": 17940
+   },
+   {
+    "src": "/assets2d/dial/actions/arcranges/singlearc.png",
+    "bytes": 31202
+   },
+   {
+    "src": "/assets2d/dial/actions/barrell-image.png",
+    "bytes": 17330
+   },
+   {
+    "src": "/assets2d/dial/actions/barrellb-image.png",
+    "bytes": 17988
+   },
+   {
+    "src": "/assets2d/dial/actions/barrellf-image.png",
+    "bytes": 17735
+   },
+   {
+    "src": "/assets2d/dial/actions/barrelr-image.png",
+    "bytes": 17274
+   },
+   {
+    "src": "/assets2d/dial/actions/barrelrb-image.png",
+    "bytes": 17805
+   },
+   {
+    "src": "/assets2d/dial/actions/barrelrf-image.png",
+    "bytes": 17656
+   },
+   {
+    "src": "/assets2d/dial/actions/boost/BoostFwd.png",
+    "bytes": 17707
+   },
+   {
+    "src": "/assets2d/dial/actions/boost/BoostLeft.png",
+    "bytes": 17621
+   },
+   {
+    "src": "/assets2d/dial/actions/boost/BoostLeftTurn.png",
+    "bytes": 26141
+   },
+   {
+    "src": "/assets2d/dial/actions/boost/BoostMENU.png",
+    "bytes": 18198
+   },
+   {
+    "src": "/assets2d/dial/actions/boost/BoostRight.png",
+    "bytes": 17640
+   },
+   {
+    "src": "/assets2d/dial/actions/boost/BoostRightTurn.png",
+    "bytes": 26094
+   },
+   {
+    "src": "/assets2d/dial/actions/boosts-image.png",
+    "bytes": 17707
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollLeft.png",
+    "bytes": 17330
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollLeftFwd.png",
+    "bytes": 17735
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollLeftRe.png",
+    "bytes": 17988
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollMENU.png",
+    "bytes": 20475
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollRight.png",
+    "bytes": 17274
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollRightFwd.png",
+    "bytes": 17656
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollRightRe.png",
+    "bytes": 17805
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollTLeftdown.png",
+    "bytes": 27567
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollTLeftup.png",
+    "bytes": 27516
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollTRightdown.png",
+    "bytes": 27324
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollTRightup.png",
+    "bytes": 27280
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVLeftdown.png",
+    "bytes": 25989
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVLeftdownBA.png",
+    "bytes": 19082
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVLeftdownFWD.png",
+    "bytes": 18828
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVLeftup.png",
+    "bytes": 25434
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVLeftupBA.png",
+    "bytes": 18753
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVLeftupFWD.png",
+    "bytes": 18864
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVRightdown.png",
+    "bytes": 25943
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVRightdownBA.png",
+    "bytes": 18761
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVRightdownFWD.png",
+    "bytes": 18711
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVRightup.png",
+    "bytes": 25572
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVRightupBA.png",
+    "bytes": 18550
+   },
+   {
+    "src": "/assets2d/dial/actions/broll/brollVRightupFWD.png",
+    "bytes": 18623
+   },
+   {
+    "src": "/assets2d/dial/actions/calculate.png",
+    "bytes": 60759
+   },
+   {
+    "src": "/assets2d/dial/actions/cleardeplete.png",
+    "bytes": 32825
+   },
+   {
+    "src": "/assets2d/dial/actions/clearstrain.png",
+    "bytes": 52408
+   },
+   {
+    "src": "/assets2d/dial/actions/clearstress.png",
+    "bytes": 41079
+   },
+   {
+    "src": "/assets2d/dial/actions/cloak.png",
+    "bytes": 96106
+   },
+   {
+    "src": "/assets2d/dial/actions/deplete.png",
+    "bytes": 16470
+   },
+   {
+    "src": "/assets2d/dial/actions/disarm.png",
+    "bytes": 103198
+   },
+   {
+    "src": "/assets2d/dial/actions/dock.png",
+    "bytes": 32842
+   },
+   {
+    "src": "/assets2d/dial/actions/evade.png",
+    "bytes": 55158
+   },
+   {
+    "src": "/assets2d/dial/actions/focus.png",
+    "bytes": 58863
+   },
+   {
+    "src": "/assets2d/dial/actions/ion.png",
+    "bytes": 101240
+   },
+   {
+    "src": "/assets2d/dial/actions/jam.png",
+    "bytes": 76367
+   },
+   {
+    "src": "/assets2d/dial/actions/nudgeBack.png",
+    "bytes": 10776
+   },
+   {
+    "src": "/assets2d/dial/actions/nudgeLeft.png",
+    "bytes": 10611
+   },
+   {
+    "src": "/assets2d/dial/actions/nudgeRight.png",
+    "bytes": 10724
+   },
+   {
+    "src": "/assets2d/dial/actions/nudgeUp.png",
+    "bytes": 10836
+   },
+   {
+    "src": "/assets2d/dial/actions/Pivot180.png",
+    "bytes": 17330
+   },
+   {
+    "src": "/assets2d/dial/actions/Pivot90Left.png",
+    "bytes": 17636
+   },
+   {
+    "src": "/assets2d/dial/actions/Pivot90Right.png",
+    "bytes": 17624
+   },
+   {
+    "src": "/assets2d/dial/actions/reinforce.png",
+    "bytes": 62025
+   },
+   {
+    "src": "/assets2d/dial/actions/rot1degleft.png",
+    "bytes": 16552
+   },
+   {
+    "src": "/assets2d/dial/actions/rot1degright.png",
+    "bytes": 16612
+   },
+   {
+    "src": "/assets2d/dial/actions/rot225degleft.png",
+    "bytes": 16664
+   },
+   {
+    "src": "/assets2d/dial/actions/rot225degright.png",
+    "bytes": 16756
+   },
+   {
+    "src": "/assets2d/dial/actions/rot5degleft.png",
+    "bytes": 16386
+   },
+   {
+    "src": "/assets2d/dial/actions/rot5degright.png",
+    "bytes": 16363
+   },
+   {
+    "src": "/assets2d/dial/actions/RotateAntiHorario.png",
+    "bytes": 20325
+   },
+   {
+    "src": "/assets2d/dial/actions/RotateHorario.png",
+    "bytes": 20331
+   },
+   {
+    "src": "/assets2d/dial/actions/ShowTemplate.png",
+    "bytes": 14318
+   },
+   {
+    "src": "/assets2d/dial/actions/strain.png",
+    "bytes": 73350
+   },
+   {
+    "src": "/assets2d/dial/actions/stress.png",
+    "bytes": 53275
+   },
+   {
+    "src": "/assets2d/dial/actions/TL.png",
+    "bytes": 82397
+   },
+   {
+    "src": "/assets2d/dial/actions/tractor.png",
+    "bytes": 85476
+   },
+   {
+    "src": "/assets2d/dial/actions/TrollFront.png",
+    "bytes": 14090
+   },
+   {
+    "src": "/assets2d/dial/actions/TrollMid.png",
+    "bytes": 14427
+   },
+   {
+    "src": "/assets2d/dial/actions/TrollRear.png",
+    "bytes": 14624
+   },
+   {
+    "src": "/assets2d/dial/actions/undock.png",
+    "bytes": 25362
+   },
+   {
+    "src": "/assets2d/dial/maneuver-set-editor-token.png",
+    "bytes": 1693507
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/BackgroundCIS.png",
+    "bytes": 232566
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/BackgroundEmpire.png",
+    "bytes": 192493
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/BackgroundFO.png",
+    "bytes": 128633
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/BackgroundReb.png",
+    "bytes": 172815
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/BackgroundRep.png",
+    "bytes": 177043
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/BackgroundRes.png",
+    "bytes": 159527
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/BackgroundScum.png",
+    "bytes": 194606
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/beb.png",
+    "bytes": 17302
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/bep.png",
+    "bytes": 17551
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/ber.png",
+    "bytes": 17286
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/bew.png",
+    "bytes": 17824
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/bezb.png",
+    "bytes": 4057
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/bezp.png",
+    "bytes": 5793
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/bezr.png",
+    "bytes": 7762
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/bezw.png",
+    "bytes": 8710
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/brb.png",
+    "bytes": 17076
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/brp.png",
+    "bytes": 17472
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/brr.png",
+    "bytes": 16927
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/brw.png",
+    "bytes": 17473
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/brzb.png",
+    "bytes": 3599
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/brzp.png",
+    "bytes": 5947
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/brzr.png",
+    "bytes": 7751
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/brzw.png",
+    "bytes": 8232
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/kb.png",
+    "bytes": 12421
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/kp.png",
+    "bytes": 18530
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/kr.png",
+    "bytes": 18133
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/kw.png",
+    "bytes": 18467
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/reb.png",
+    "bytes": 11535
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/rep.png",
+    "bytes": 11521
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/rer.png",
+    "bytes": 18221
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/rew.png",
+    "bytes": 11525
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/rrb.png",
+    "bytes": 11328
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/rrp.png",
+    "bytes": 11314
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/rrr.png",
+    "bytes": 18116
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/rrw.png",
+    "bytes": 11314
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/rsb.png",
+    "bytes": 8937
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/rsp.png",
+    "bytes": 8903
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/rsr.png",
+    "bytes": 12692
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/s-loopeb.png",
+    "bytes": 12519
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/s-loopep.png",
+    "bytes": 20612
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/s-looper.png",
+    "bytes": 20187
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/s-loopew.png",
+    "bytes": 20850
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/s-looprb.png",
+    "bytes": 12415
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/s-looprp.png",
+    "bytes": 20344
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/s-looprr.png",
+    "bytes": 19731
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/s-looprw.png",
+    "bytes": 20171
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/sb.png",
+    "bytes": 13579
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/sp.png",
+    "bytes": 13931
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/sr.png",
+    "bytes": 13914
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/stopb.png",
+    "bytes": 8454
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/stopp.png",
+    "bytes": 11720
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/stopr.png",
+    "bytes": 11319
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/stopw.png",
+    "bytes": 11033
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/sw.png",
+    "bytes": 13751
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/teb.png",
+    "bytes": 14518
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/tep.png",
+    "bytes": 15170
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/ter.png",
+    "bytes": 14622
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/tesb.png",
+    "bytes": 10322
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/tesp.png",
+    "bytes": 10331
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/tesr.png",
+    "bytes": 16130
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/tesw.png",
+    "bytes": 10338
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/tew.png",
+    "bytes": 14549
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/tezb.png",
+    "bytes": 2570
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/tezp.png",
+    "bytes": 4404
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/tezr.png",
+    "bytes": 4455
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/tezw.png",
+    "bytes": 4731
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trb.png",
+    "bytes": 14049
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/treb.png",
+    "bytes": 10074
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trep.png",
+    "bytes": 15062
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trer.png",
+    "bytes": 14567
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trew.png",
+    "bytes": 14753
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trp.png",
+    "bytes": 14852
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trr.png",
+    "bytes": 14469
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trrb.png",
+    "bytes": 9852
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trrp.png",
+    "bytes": 14816
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trrr.png",
+    "bytes": 14424
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trrw.png",
+    "bytes": 14443
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trsb.png",
+    "bytes": 11355
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trsp.png",
+    "bytes": 11320
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trsr.png",
+    "bytes": 16041
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trsw.png",
+    "bytes": 11328
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trw.png",
+    "bytes": 14417
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trzb.png",
+    "bytes": 3801
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trzp.png",
+    "bytes": 4475
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trzr.png",
+    "bytes": 4689
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/trzw.png",
+    "bytes": 4754
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/v0.png",
+    "bytes": 42494
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/v1.png",
+    "bytes": 45466
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/v2.png",
+    "bytes": 42069
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/v3.png",
+    "bytes": 44069
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/v4.png",
+    "bytes": 43467
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/v5.png",
+    "bytes": 41089
+   },
+   {
+    "src": "/assets2d/dial/maneuvers/wsr.png",
+    "bytes": 10349
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/1beb.png",
+    "bytes": 7358
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/1ber.png",
+    "bytes": 7062
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/1bew.png",
+    "bytes": 5868
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/1brb.png",
+    "bytes": 7120
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/1brr.png",
+    "bytes": 6869
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/1brw.png",
+    "bytes": 5716
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/2beb.png",
+    "bytes": 8595
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/2ber.png",
+    "bytes": 8270
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/2bew.png",
+    "bytes": 6986
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/2brb.png",
+    "bytes": 8380
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/2brr.png",
+    "bytes": 8100
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/2brw.png",
+    "bytes": 6841
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/3beb.png",
+    "bytes": 8860
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/3ber.png",
+    "bytes": 8555
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/3bew.png",
+    "bytes": 7271
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/3brb.png",
+    "bytes": 8648
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/3brr.png",
+    "bytes": 8383
+   },
+   {
+    "src": "/assets2d/dial/revealed/bank/3brw.png",
+    "bytes": 7126
+   },
+   {
+    "src": "/assets2d/dial/revealed/kturn/1kr.png",
+    "bytes": 7122
+   },
+   {
+    "src": "/assets2d/dial/revealed/kturn/1kw.png",
+    "bytes": 5555
+   },
+   {
+    "src": "/assets2d/dial/revealed/kturn/2kr.png",
+    "bytes": 8340
+   },
+   {
+    "src": "/assets2d/dial/revealed/kturn/2kw.png",
+    "bytes": 6688
+   },
+   {
+    "src": "/assets2d/dial/revealed/kturn/3kr.png",
+    "bytes": 8616
+   },
+   {
+    "src": "/assets2d/dial/revealed/kturn/3kw.png",
+    "bytes": 6976
+   },
+   {
+    "src": "/assets2d/dial/revealed/kturn/4kr.png",
+    "bytes": 8114
+   },
+   {
+    "src": "/assets2d/dial/revealed/kturn/4kw.png",
+    "bytes": 6738
+   },
+   {
+    "src": "/assets2d/dial/revealed/kturn/5kr.png",
+    "bytes": 7905
+   },
+   {
+    "src": "/assets2d/dial/revealed/kturn/5kw.png",
+    "bytes": 6344
+   },
+   {
+    "src": "/assets2d/dial/revealed/reverse/1rer.png",
+    "bytes": 5592
+   },
+   {
+    "src": "/assets2d/dial/revealed/reverse/1rrr.png",
+    "bytes": 5606
+   },
+   {
+    "src": "/assets2d/dial/revealed/reverse/1rsr.png",
+    "bytes": 3532
+   },
+   {
+    "src": "/assets2d/dial/revealed/reverse/2rsr.png",
+    "bytes": 4681
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/1sler.png",
+    "bytes": 8119
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/1slew.png",
+    "bytes": 6789
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/1slrr.png",
+    "bytes": 7861
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/1slrw.png",
+    "bytes": 6461
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/2sler.png",
+    "bytes": 9312
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/2slew.png",
+    "bytes": 7922
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/2slrr.png",
+    "bytes": 9041
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/2slrw.png",
+    "bytes": 7593
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/3sler.png",
+    "bytes": 9613
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/3slew.png",
+    "bytes": 8206
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/3slrr.png",
+    "bytes": 9331
+   },
+   {
+    "src": "/assets2d/dial/revealed/sloop/3slrw.png",
+    "bytes": 7877
+   },
+   {
+    "src": "/assets2d/dial/revealed/stop/0r.png",
+    "bytes": 5779
+   },
+   {
+    "src": "/assets2d/dial/revealed/stop/0w.png",
+    "bytes": 4462
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/1sb.png",
+    "bytes": 5597
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/1sr.png",
+    "bytes": 5563
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/1sw.png",
+    "bytes": 4258
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/2sb.png",
+    "bytes": 6910
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/2sr.png",
+    "bytes": 6812
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/2sw.png",
+    "bytes": 5400
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/3sb.png",
+    "bytes": 7218
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/3sr.png",
+    "bytes": 7130
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/3sw.png",
+    "bytes": 5693
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/4sb.png",
+    "bytes": 6749
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/4sr.png",
+    "bytes": 6561
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/4sw.png",
+    "bytes": 5442
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/5sb.png",
+    "bytes": 6351
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/5sr.png",
+    "bytes": 6360
+   },
+   {
+    "src": "/assets2d/dial/revealed/straight/5sw.png",
+    "bytes": 5056
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/1trer.png",
+    "bytes": 5651
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/1trew.png",
+    "bytes": 4264
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/1trrr.png",
+    "bytes": 5622
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/1trrw.png",
+    "bytes": 4351
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/2trer.png",
+    "bytes": 6912
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/2trew.png",
+    "bytes": 5415
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/2trrr.png",
+    "bytes": 6870
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/2trrw.png",
+    "bytes": 5504
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/3trer.png",
+    "bytes": 7223
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/3trew.png",
+    "bytes": 5704
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/3trrr.png",
+    "bytes": 7190
+   },
+   {
+    "src": "/assets2d/dial/revealed/troll/3trrw.png",
+    "bytes": 5791
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/1teb.png",
+    "bytes": 5834
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/1ter.png",
+    "bytes": 5787
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/1tew.png",
+    "bytes": 4418
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/1trb.png",
+    "bytes": 5762
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/1trr.png",
+    "bytes": 5732
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/1trw.png",
+    "bytes": 4382
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/2teb.png",
+    "bytes": 7158
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/2ter.png",
+    "bytes": 7056
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/2tew.png",
+    "bytes": 5555
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/2trb.png",
+    "bytes": 7075
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/2trr.png",
+    "bytes": 6987
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/2trw.png",
+    "bytes": 5521
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/3teb.png",
+    "bytes": 7441
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/3ter.png",
+    "bytes": 7346
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/3tew.png",
+    "bytes": 5852
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/3trb.png",
+    "bytes": 7377
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/3trr.png",
+    "bytes": 7299
+   },
+   {
+    "src": "/assets2d/dial/revealed/turn/3trw.png",
+    "bytes": 5810
+   },
+   {
+    "src": "/assets2d/dial/skin/1/CIS.png",
+    "bytes": 468442
+   },
+   {
+    "src": "/assets2d/dial/skin/1/Empire.png",
+    "bytes": 420295
+   },
+   {
+    "src": "/assets2d/dial/skin/1/FO.png",
+    "bytes": 358029
+   },
+   {
+    "src": "/assets2d/dial/skin/1/Rebel.png",
+    "bytes": 489447
+   },
+   {
+    "src": "/assets2d/dial/skin/1/Republic.png",
+    "bytes": 464426
+   },
+   {
+    "src": "/assets2d/dial/skin/1/Resistance.png",
+    "bytes": 402170
+   },
+   {
+    "src": "/assets2d/dial/skin/1/Scum.png",
+    "bytes": 470490
+   }
+  ],
+  "UI-images": [
+   {
+    "src": "/assets2d/UI-images/brushstroke.png",
+    "bytes": 105374
+   },
+   {
+    "src": "/assets2d/UI-images/goldenblank.png",
+    "bytes": 264909
+   },
+   {
+    "src": "/assets2d/UI-images/goldencrit.png",
+    "bytes": 255204
+   },
+   {
+    "src": "/assets2d/UI-images/goldeneye.png",
+    "bytes": 258924
+   },
+   {
+    "src": "/assets2d/UI-images/goldenhit.png",
+    "bytes": 258649
+   },
+   {
+    "src": "/assets2d/UI-images/greenblank.png",
+    "bytes": 151897
+   },
+   {
+    "src": "/assets2d/UI-images/greenevade.png",
+    "bytes": 162765
+   },
+   {
+    "src": "/assets2d/UI-images/greeneye.png",
+    "bytes": 162726
+   },
+   {
+    "src": "/assets2d/UI-images/redblank.png",
+    "bytes": 156506
+   },
+   {
+    "src": "/assets2d/UI-images/redcrit.png",
+    "bytes": 164718
+   },
+   {
+    "src": "/assets2d/UI-images/redeye.png",
+    "bytes": 172493
+   },
+   {
+    "src": "/assets2d/UI-images/redhit.png",
+    "bytes": 167282
+   }
+  ],
+  "Items": [
+   {
+    "src": "/assets2d/Items/condition/tokens/ancient-knowledge-texture.png",
+    "bytes": 577909
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/brokentrust.png",
+    "bytes": 58130
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/comp_intel.png",
+    "bytes": 70218
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/decoyed.png",
+    "bytes": 86319
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/falsefriend.png",
+    "bytes": 83459
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/fearfulprey.png",
+    "bytes": 87311
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/fuse.jpg",
+    "bytes": 81043
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/guarded.png",
+    "bytes": 91980
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/hunted-texture.png",
+    "bytes": 61721
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/hunted.png",
+    "bytes": 61721
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/illshowyouthedarkside.png",
+    "bytes": 83286
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/itstheresistance.png",
+    "bytes": 63714
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/liberated.png",
+    "bytes": 78518
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/listening-device-texture.png",
+    "bytes": 51403
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/listeningdevice.png",
+    "bytes": 51403
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/markedforelimination.png",
+    "bytes": 82328
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/mercilesspursuit.png",
+    "bytes": 76497
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/optimized-prototype-texture.png",
+    "bytes": 71846
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/optimizedproto.png",
+    "bytes": 71846
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/primedforspeed.png",
+    "bytes": 79231
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/rattled.png",
+    "bytes": 79507
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/sickeningmaneuver.png",
+    "bytes": 72685
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/suppressivefire.png",
+    "bytes": 80780
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/trialsofthedarksaber.png",
+    "bytes": 83909
+   },
+   {
+    "src": "/assets2d/Items/condition/tokens/ZamWesell.png",
+    "bytes": 101155
+   },
+   {
+    "src": "/assets2d/Items/tokens/arcindicators/indicadoramar.jpg",
+    "bytes": 34175
+   },
+   {
+    "src": "/assets2d/Items/tokens/arcindicators/indicadoramar.png",
+    "bytes": 135406
+   },
+   {
+    "src": "/assets2d/Items/tokens/arcindicators/indicadorazul.png",
+    "bytes": 118568
+   },
+   {
+    "src": "/assets2d/Items/tokens/arcindicators/indicadormarrom.png",
+    "bytes": 118476
+   },
+   {
+    "src": "/assets2d/Items/tokens/arcindicators/indicadorverde.png",
+    "bytes": 128619
+   },
+   {
+    "src": "/assets2d/Items/tokens/arcindicators/indicadorverm.png",
+    "bytes": 112068
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/AllBombs.jpg",
+    "bytes": 274657
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/AllMines.jpg",
+    "bytes": 52650
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/blaze.png",
+    "bytes": 656896
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/blazebomb.png",
+    "bytes": 267905
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/Bombdropper.png",
+    "bytes": 423757
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/bomblet.png",
+    "bytes": 300204
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/buzz.png",
+    "bytes": 322546
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/cargo.png",
+    "bytes": 61304
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/Concussion Bomb Token.png",
+    "bytes": 485190
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/conner.png",
+    "bytes": 550187
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/DRKProbe.png",
+    "bytes": 597835
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/imp-commandos.png",
+    "bytes": 644714
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/Mandos.png",
+    "bytes": 1333671
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/objective-texture.png",
+    "bytes": 802610
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/proton.png",
+    "bytes": 315910
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/proximity.png",
+    "bytes": 456114
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/seismic.png",
+    "bytes": 257607
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/sep-commandos.png",
+    "bytes": 1109020
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/spare-parts-texture.png",
+    "bytes": 202800
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/spare.png",
+    "bytes": 202800
+   },
+   {
+    "src": "/assets2d/Items/tokens/devices/tracking-token-image.png",
+    "bytes": 66378
+   },
+   {
+    "src": "/assets2d/Items/tokens/flip/charge-texture.png",
+    "bytes": 102847
+   },
+   {
+    "src": "/assets2d/Items/tokens/flip/charge.jpg",
+    "bytes": 83838
+   },
+   {
+    "src": "/assets2d/Items/tokens/flip/energy.jpg",
+    "bytes": 74061
+   },
+   {
+    "src": "/assets2d/Items/tokens/flip/force.jpg",
+    "bytes": 72079
+   },
+   {
+    "src": "/assets2d/Items/tokens/flip/shield.jpg",
+    "bytes": 103170
+   },
+   {
+    "src": "/assets2d/Items/tokens/new/charge.png",
+    "bytes": 69899
+   },
+   {
+    "src": "/assets2d/Items/tokens/new/force.png",
+    "bytes": 55866
+   },
+   {
+    "src": "/assets2d/Items/tokens/new/hyperdrive.png",
+    "bytes": 227719
+   },
+   {
+    "src": "/assets2d/Items/tokens/new/purpleorange.png",
+    "bytes": 109680
+   },
+   {
+    "src": "/assets2d/Items/tokens/new/redblue.png",
+    "bytes": 98122
+   },
+   {
+    "src": "/assets2d/Items/tokens/new/shield.png",
+    "bytes": 104388
+   },
+   {
+    "src": "/assets2d/Items/tokens/new/starviper-mkii-roll-token-texture.png",
+    "bytes": 460729
+   },
+   {
+    "src": "/assets2d/Items/tokens/objectiveTokenAMG.jpg",
+    "bytes": 55727
+   },
+   {
+    "src": "/assets2d/Items/tokens/PrideObjectives.jpg",
+    "bytes": 241530
+   },
+   {
+    "src": "/assets2d/Items/tokens/round/calculate.jpg",
+    "bytes": 88101
+   },
+   {
+    "src": "/assets2d/Items/tokens/round/disarm.jpg",
+    "bytes": 127276
+   },
+   {
+    "src": "/assets2d/Items/tokens/round/evade.jpg",
+    "bytes": 79047
+   },
+   {
+    "src": "/assets2d/Items/tokens/round/focus.jpg",
+    "bytes": 82712
+   },
+   {
+    "src": "/assets2d/Items/tokens/round/Int0 Marker.jpg",
+    "bytes": 118973
+   },
+   {
+    "src": "/assets2d/Items/tokens/round/Int6 Marker.jpg",
+    "bytes": 118830
+   },
+   {
+    "src": "/assets2d/Items/tokens/round/Int7 Marker.jpg",
+    "bytes": 118659
+   },
+   {
+    "src": "/assets2d/Items/tokens/round/jam.jpg",
+    "bytes": 102657
+   },
+   {
+    "src": "/assets2d/Items/tokens/round/reinforce.jpg",
+    "bytes": 126967
+   },
+   {
+    "src": "/assets2d/Items/tokens/round/tractor.jpg",
+    "bytes": 101318
+   },
+   {
+    "src": "/assets2d/Items/tokens/shields/shield-image.png",
+    "bytes": 429431
+   },
+   {
+    "src": "/assets2d/Items/tokens/shields/shield-normal.png",
+    "bytes": 1001899
+   },
+   {
+    "src": "/assets2d/Items/tokens/shields/shield-texture-2.png",
+    "bytes": 3973
+   },
+   {
+    "src": "/assets2d/Items/tokens/shields/shield-texture-3.png",
+    "bytes": 968058
+   },
+   {
+    "src": "/assets2d/Items/tokens/shields/shield-texture-4.png",
+    "bytes": 947123
+   },
+   {
+    "src": "/assets2d/Items/tokens/shields/shield-texture.jpg",
+    "bytes": 231671
+   },
+   {
+    "src": "/assets2d/Items/tokens/squared/cloak.jpg",
+    "bytes": 209260
+   },
+   {
+    "src": "/assets2d/Items/tokens/squared/critical.jpg",
+    "bytes": 97376
+   },
+   {
+    "src": "/assets2d/Items/tokens/squared/deplete.jpg",
+    "bytes": 91194
+   },
+   {
+    "src": "/assets2d/Items/tokens/squared/ion.jpg",
+    "bytes": 116799
+   },
+   {
+    "src": "/assets2d/Items/tokens/squared/Saxton-cloak.png",
+    "bytes": 123646
+   },
+   {
+    "src": "/assets2d/Items/tokens/squared/Strain.jpg",
+    "bytes": 94583
+   },
+   {
+    "src": "/assets2d/Items/tokens/squared/stress.jpg",
+    "bytes": 81846
+   },
+   {
+    "src": "/assets2d/Items/tokens/squared/TL.png",
+    "bytes": 147589
+   },
+   {
+    "src": "/assets2d/Items/tokens/squared/TLBag.png",
+    "bytes": 126471
+   }
+  ],
+  "Cards": [
+   {
+    "src": "/assets2d/Cards/Conditions/decoyed.png",
+    "bytes": 166859
+   },
+   {
+    "src": "/assets2d/Cards/Conditions/drk-1-probe-droid.png",
+    "bytes": 154790
+   },
+   {
+    "src": "/assets2d/Cards/Conditions/fearful-prey.png",
+    "bytes": 144356
+   },
+   {
+    "src": "/assets2d/Cards/Conditions/ill-show-you-the-dark-side.png",
+    "bytes": 176383
+   },
+   {
+    "src": "/assets2d/Cards/Conditions/its-the-resistance.png",
+    "bytes": 175345
+   },
+   {
+    "src": "/assets2d/Cards/Conditions/mean-business.png",
+    "bytes": 171440
+   },
+   {
+    "src": "/assets2d/Cards/Conditions/thank-me.png",
+    "bytes": 172985
+   },
+   {
+    "src": "/assets2d/Cards/Erreta/Outrider.png",
+    "bytes": 430033
+   },
+   {
+    "src": "/assets2d/Cards/Pilots/First Order/Sensor Buoy (Blue).png",
+    "bytes": 4782143
+   },
+   {
+    "src": "/assets2d/Cards/Pilots/First Order/Sensor Buoy (Red) .png",
+    "bytes": 4805636
+   },
+   {
+    "src": "/assets2d/Cards/Pilots/Rebel/Kallus.png",
+    "bytes": 534973
+   }
+  ],
+  "bases": [
+   {
+    "src": "/assets2d/bases/huge/front/empire.png",
+    "bytes": 122916
+   },
+   {
+    "src": "/assets2d/bases/huge/front/first-order.png",
+    "bytes": 123865
+   },
+   {
+    "src": "/assets2d/bases/huge/front/rebel.png",
+    "bytes": 124740
+   },
+   {
+    "src": "/assets2d/bases/huge/front/republic.png",
+    "bytes": 132173
+   },
+   {
+    "src": "/assets2d/bases/huge/front/resistance.png",
+    "bytes": 54084
+   },
+   {
+    "src": "/assets2d/bases/huge/front/scum.png",
+    "bytes": 119486
+   },
+   {
+    "src": "/assets2d/bases/huge/front/separatists.png",
+    "bytes": 55330
+   },
+   {
+    "src": "/assets2d/bases/huge/fullfront/empire.png",
+    "bytes": 122861
+   },
+   {
+    "src": "/assets2d/bases/huge/fullfront/first-order.png",
+    "bytes": 118908
+   },
+   {
+    "src": "/assets2d/bases/huge/leftright/rebel.png",
+    "bytes": 54900
+   },
+   {
+    "src": "/assets2d/bases/huge/leftright/republic.png",
+    "bytes": 133030
+   },
+   {
+    "src": "/assets2d/bases/huge/leftright/resistance.png",
+    "bytes": 163344
+   },
+   {
+    "src": "/assets2d/bases/init/0.png",
+    "bytes": 1149
+   },
+   {
+    "src": "/assets2d/bases/init/1.png",
+    "bytes": 1046
+   },
+   {
+    "src": "/assets2d/bases/init/2.png",
+    "bytes": 1148
+   },
+   {
+    "src": "/assets2d/bases/init/3.png",
+    "bytes": 1149
+   },
+   {
+    "src": "/assets2d/bases/init/4.png",
+    "bytes": 1148
+   },
+   {
+    "src": "/assets2d/bases/init/5.png",
+    "bytes": 1113
+   },
+   {
+    "src": "/assets2d/bases/init/6.png",
+    "bytes": 1187
+   },
+   {
+    "src": "/assets2d/bases/init/7.png",
+    "bytes": 1145
+   },
+   {
+    "src": "/assets2d/bases/init/8.png",
+    "bytes": 1251
+   },
+   {
+    "src": "/assets2d/bases/large/front/empire.png",
+    "bytes": 93337
+   },
+   {
+    "src": "/assets2d/bases/large/front/first-order.png",
+    "bytes": 96600
+   },
+   {
+    "src": "/assets2d/bases/large/front/rebel.png",
+    "bytes": 96694
+   },
+   {
+    "src": "/assets2d/bases/large/front/republic.png",
+    "bytes": 93958
+   },
+   {
+    "src": "/assets2d/bases/large/front/resistance.png",
+    "bytes": 90051
+   },
+   {
+    "src": "/assets2d/bases/large/front/scum.png",
+    "bytes": 93893
+   },
+   {
+    "src": "/assets2d/bases/large/front/separatists.png",
+    "bytes": 95527
+   },
+   {
+    "src": "/assets2d/bases/large/frontback/empire.png",
+    "bytes": 93846
+   },
+   {
+    "src": "/assets2d/bases/large/frontback/first-order.png",
+    "bytes": 95887
+   },
+   {
+    "src": "/assets2d/bases/large/frontback/rebel.png",
+    "bytes": 90881
+   },
+   {
+    "src": "/assets2d/bases/large/frontback/republic.png",
+    "bytes": 93282
+   },
+   {
+    "src": "/assets2d/bases/large/frontback/resistance.png",
+    "bytes": 91868
+   },
+   {
+    "src": "/assets2d/bases/large/frontback/scum.png",
+    "bytes": 91898
+   },
+   {
+    "src": "/assets2d/bases/large/frontback/separatists.png",
+    "bytes": 94219
+   },
+   {
+    "src": "/assets2d/bases/large/fullfront/empire.png",
+    "bytes": 91533
+   },
+   {
+    "src": "/assets2d/bases/large/fullfront/first-order.png",
+    "bytes": 93262
+   },
+   {
+    "src": "/assets2d/bases/large/fullfront/rebel.png",
+    "bytes": 87453
+   },
+   {
+    "src": "/assets2d/bases/large/fullfront/republic.png",
+    "bytes": 90364
+   },
+   {
+    "src": "/assets2d/bases/large/fullfront/resistance.png",
+    "bytes": 88557
+   },
+   {
+    "src": "/assets2d/bases/large/fullfront/scum.png",
+    "bytes": 89499
+   },
+   {
+    "src": "/assets2d/bases/large/fullfront/separatists.png",
+    "bytes": 91822
+   },
+   {
+    "src": "/assets2d/bases/large/none/empire.png",
+    "bytes": 95914
+   },
+   {
+    "src": "/assets2d/bases/large/none/first-order.png",
+    "bytes": 100583
+   },
+   {
+    "src": "/assets2d/bases/large/none/rebel.png",
+    "bytes": 106388
+   },
+   {
+    "src": "/assets2d/bases/large/none/republic.png",
+    "bytes": 97830
+   },
+   {
+    "src": "/assets2d/bases/large/none/resistance.png",
+    "bytes": 96017
+   },
+   {
+    "src": "/assets2d/bases/large/none/scum.png",
+    "bytes": 93916
+   },
+   {
+    "src": "/assets2d/bases/large/none/separatists.png",
+    "bytes": 102625
+   },
+   {
+    "src": "/assets2d/bases/medium/front/empire.png",
+    "bytes": 132670
+   },
+   {
+    "src": "/assets2d/bases/medium/front/first-order.png",
+    "bytes": 164616
+   },
+   {
+    "src": "/assets2d/bases/medium/front/rebel.png",
+    "bytes": 128204
+   },
+   {
+    "src": "/assets2d/bases/medium/front/republic.png",
+    "bytes": 156458
+   },
+   {
+    "src": "/assets2d/bases/medium/front/resistance.png",
+    "bytes": 148699
+   },
+   {
+    "src": "/assets2d/bases/medium/front/scum.png",
+    "bytes": 130347
+   },
+   {
+    "src": "/assets2d/bases/medium/front/separatists.png",
+    "bytes": 160517
+   },
+   {
+    "src": "/assets2d/bases/medium/frontback/empire.png",
+    "bytes": 134506
+   },
+   {
+    "src": "/assets2d/bases/medium/frontback/first-order.png",
+    "bytes": 158444
+   },
+   {
+    "src": "/assets2d/bases/medium/frontback/rebel.png",
+    "bytes": 127925
+   },
+   {
+    "src": "/assets2d/bases/medium/frontback/republic.png",
+    "bytes": 138513
+   },
+   {
+    "src": "/assets2d/bases/medium/frontback/resistance.png",
+    "bytes": 142938
+   },
+   {
+    "src": "/assets2d/bases/medium/frontback/scum.png",
+    "bytes": 122919
+   },
+   {
+    "src": "/assets2d/bases/medium/frontback/separatists.png",
+    "bytes": 152967
+   },
+   {
+    "src": "/assets2d/bases/medium/none/empire.png",
+    "bytes": 146977
+   },
+   {
+    "src": "/assets2d/bases/medium/none/first-order.png",
+    "bytes": 186529
+   },
+   {
+    "src": "/assets2d/bases/medium/none/rebel.png",
+    "bytes": 139865
+   },
+   {
+    "src": "/assets2d/bases/medium/none/republic.png",
+    "bytes": 171927
+   },
+   {
+    "src": "/assets2d/bases/medium/none/resistance.png",
+    "bytes": 164686
+   },
+   {
+    "src": "/assets2d/bases/medium/none/scum.png",
+    "bytes": 133019
+   },
+   {
+    "src": "/assets2d/bases/medium/none/separatists.png",
+    "bytes": 185713
+   },
+   {
+    "src": "/assets2d/bases/small/bullseye/empire.png",
+    "bytes": 144812
+   },
+   {
+    "src": "/assets2d/bases/small/bullseye/first-order.png",
+    "bytes": 151227
+   },
+   {
+    "src": "/assets2d/bases/small/bullseye/rebel.png",
+    "bytes": 134247
+   },
+   {
+    "src": "/assets2d/bases/small/bullseye/republic.png",
+    "bytes": 144201
+   },
+   {
+    "src": "/assets2d/bases/small/bullseye/resistance.png",
+    "bytes": 122472
+   },
+   {
+    "src": "/assets2d/bases/small/bullseye/scum.png",
+    "bytes": 143427
+   },
+   {
+    "src": "/assets2d/bases/small/bullseye/separatists.png",
+    "bytes": 149431
+   },
+   {
+    "src": "/assets2d/bases/small/front/empire.png",
+    "bytes": 138835
+   },
+   {
+    "src": "/assets2d/bases/small/front/first-order.png",
+    "bytes": 142833
+   },
+   {
+    "src": "/assets2d/bases/small/front/rebel.png",
+    "bytes": 137690
+   },
+   {
+    "src": "/assets2d/bases/small/front/republic.png",
+    "bytes": 138592
+   },
+   {
+    "src": "/assets2d/bases/small/front/resistance.png",
+    "bytes": 116553
+   },
+   {
+    "src": "/assets2d/bases/small/front/scum.png",
+    "bytes": 139342
+   },
+   {
+    "src": "/assets2d/bases/small/front/separatists.png",
+    "bytes": 140948
+   },
+   {
+    "src": "/assets2d/bases/small/frontback/empire.png",
+    "bytes": 137086
+   },
+   {
+    "src": "/assets2d/bases/small/frontback/first-order.png",
+    "bytes": 139660
+   },
+   {
+    "src": "/assets2d/bases/small/frontback/rebel.png",
+    "bytes": 132606
+   },
+   {
+    "src": "/assets2d/bases/small/frontback/republic.png",
+    "bytes": 136598
+   },
+   {
+    "src": "/assets2d/bases/small/frontback/resistance.png",
+    "bytes": 117313
+   },
+   {
+    "src": "/assets2d/bases/small/frontback/scum.png",
+    "bytes": 136277
+   },
+   {
+    "src": "/assets2d/bases/small/frontback/separatists.png",
+    "bytes": 135203
+   },
+   {
+    "src": "/assets2d/bases/small/fullfront/empire.png",
+    "bytes": 138187
+   },
+   {
+    "src": "/assets2d/bases/small/fullfront/first-order.png",
+    "bytes": 139644
+   },
+   {
+    "src": "/assets2d/bases/small/fullfront/rebel.png",
+    "bytes": 134423
+   },
+   {
+    "src": "/assets2d/bases/small/fullfront/republic.png",
+    "bytes": 135130
+   },
+   {
+    "src": "/assets2d/bases/small/fullfront/resistance.png",
+    "bytes": 120294
+   },
+   {
+    "src": "/assets2d/bases/small/fullfront/scum.png",
+    "bytes": 137909
+   },
+   {
+    "src": "/assets2d/bases/small/fullfront/separatists.png",
+    "bytes": 139397
+   },
+   {
+    "src": "/assets2d/bases/small/none/empire.png",
+    "bytes": 155754
+   },
+   {
+    "src": "/assets2d/bases/small/none/first-order.png",
+    "bytes": 170420
+   },
+   {
+    "src": "/assets2d/bases/small/none/rebel.png",
+    "bytes": 159113
+   },
+   {
+    "src": "/assets2d/bases/small/none/republic.png",
+    "bytes": 156768
+   },
+   {
+    "src": "/assets2d/bases/small/none/resistance.png",
+    "bytes": 125807
+   },
+   {
+    "src": "/assets2d/bases/small/none/scum.png",
+    "bytes": 150102
+   },
+   {
+    "src": "/assets2d/bases/small/none/separatists.png",
+    "bytes": 174405
+   }
+  ]
+ }
+}

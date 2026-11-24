@@ -1,0 +1,21 @@
+{
+ "ship": "t70xwing",
+ "variant": "poehoh",
+ "kind": "pilot_skin",
+ "objs": [
+  "/models-tts/t70xwing/t70_base.obj",
+  "/models-tts/t70xwing/t70_open.obj"
+ ],
+ "tex": "/models-tts/t70xwing/Textures/1/poeHoH.jpg",
+ "files": [
+  "top_e000_y000.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

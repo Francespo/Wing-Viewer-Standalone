@@ -1,0 +1,2290 @@
+{
+ "schema": "wing-engine/replay@1",
+ "meta": {
+  "engine": "0.1.0-fixture",
+  "format": "standard-50p",
+  "seed": 42,
+  "date": "2026-10-26",
+  "scenario": "Assault on the Satellite Array (demo)",
+  "players": [
+   {
+    "name": "Impero",
+    "faction": "empire",
+    "points": 44
+   },
+   {
+    "name": "Ribelli",
+    "faction": "rebel",
+    "points": 46
+   }
+  ],
+  "result": {
+   "winner": 1,
+   "points": [
+    24,
+    46
+   ]
+  }
+ },
+ "board": {
+  "width": 914,
+  "height": 914,
+  "obstacles": [
+   {
+    "x": 430,
+    "y": 470,
+    "radius": 42,
+    "kind": "asteroid"
+   },
+   {
+    "x": 700,
+    "y": 380,
+    "radius": 45,
+    "kind": "debris"
+   },
+   {
+    "x": 250,
+    "y": 620,
+    "radius": 40,
+    "kind": "gas"
+   }
+  ]
+ },
+ "ships": [
+  {
+   "id": 1,
+   "name": "Academy Pilot",
+   "ship": "TIE/ln Fighter",
+   "faction": "empire",
+   "base": 40,
+   "initiative": 1,
+   "hull": 3,
+   "shields": 0,
+   "agility": 3,
+   "arc": "front"
+  },
+  {
+   "id": 2,
+   "name": "Academy Pilot",
+   "ship": "TIE/ln Fighter",
+   "faction": "empire",
+   "base": 40,
+   "initiative": 1,
+   "hull": 3,
+   "shields": 0,
+   "agility": 3,
+   "arc": "front"
+  },
+  {
+   "id": 3,
+   "name": "Rookie Pilot",
+   "ship": "T-65 X-wing",
+   "faction": "rebel",
+   "base": 40,
+   "initiative": 2,
+   "hull": 4,
+   "shields": 2,
+   "agility": 2,
+   "arc": "front"
+  },
+  {
+   "id": 4,
+   "name": "Rookie Pilot",
+   "ship": "T-65 X-wing",
+   "faction": "rebel",
+   "base": 40,
+   "initiative": 2,
+   "hull": 4,
+   "shields": 2,
+   "agility": 2,
+   "arc": "front"
+  }
+ ],
+ "frames": [
+  {
+   "n": 0,
+   "round": 0,
+   "phase": "setup",
+   "active": null,
+   "ships": [
+    {
+     "id": 1,
+     "x": 340,
+     "y": 170,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 560,
+     "y": 170,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 330,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 580,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "system",
+     "text": "Setup: tre ostacoli piazzati dall'Impero — asteroide, detriti, nube di gas."
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "round": 0,
+   "phase": "setup",
+   "active": null,
+   "ships": [
+    {
+     "id": 1,
+     "x": 340,
+     "y": 170,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 560,
+     "y": 170,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 330,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 580,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "system",
+     "text": "Ordine di gioco: lancio di dado.",
+     "dice": {
+      "attack": [
+       "hit"
+      ]
+     }
+    },
+    {
+     "tone": "system",
+     "text": "L'Impero muove per primo."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "round": 1,
+   "phase": "planning",
+   "active": null,
+   "ships": [
+    {
+     "id": 1,
+     "x": 340,
+     "y": 170,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 560,
+     "y": 170,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 330,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 580,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "system",
+     "text": "Fase di pianificazione: i diali sono impostati in segreto."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "round": 1,
+   "phase": "activation",
+   "active": 1,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 560,
+     "y": 170,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 330,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 580,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "move",
+     "text": "TIE-1 rivela e esegue: 2 dritto.",
+     "ships": [
+      1
+     ]
+    }
+   ],
+   "moves": [
+    {
+     "ship": 1,
+     "partial": false,
+     "from": {
+      "x": 340,
+      "y": 170,
+      "heading": 0
+     },
+     "to": {
+      "x": 380,
+      "y": 250,
+      "heading": 0
+     }
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "round": 1,
+   "phase": "activation",
+   "active": 1,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 560,
+     "y": 170,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 330,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 580,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "action",
+     "text": "TIE-1: azione focus.",
+     "ships": [
+      1
+     ],
+     "tokens": {
+      "focus": 1
+     }
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "round": 1,
+   "phase": "activation",
+   "active": 2,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 330,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 580,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "move",
+     "text": "TIE-2 rivela e esegue: 2 banca sinistra.",
+     "ships": [
+      2
+     ]
+    }
+   ],
+   "moves": [
+    {
+     "ship": 2,
+     "partial": false,
+     "from": {
+      "x": 560,
+      "y": 170,
+      "heading": 0
+     },
+     "to": {
+      "x": 505,
+      "y": 255,
+      "heading": 340
+     }
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "round": 1,
+   "phase": "activation",
+   "active": 2,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 330,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 580,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "action",
+     "text": "TIE-2: azione evade.",
+     "ships": [
+      2
+     ],
+     "tokens": {
+      "evade": 1
+     }
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "round": 1,
+   "phase": "activation",
+   "active": 3,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 580,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "move",
+     "text": "XW-1 rivela e esegue: 1 virata destra.",
+     "ships": [
+      3
+     ]
+    }
+   ],
+   "moves": [
+    {
+     "ship": 3,
+     "partial": false,
+     "from": {
+      "x": 330,
+      "y": 740,
+      "heading": 180
+     },
+     "to": {
+      "x": 370,
+      "y": 640,
+      "heading": 150
+     }
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "round": 1,
+   "phase": "activation",
+   "active": 3,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 580,
+     "y": 740,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "action",
+     "text": "XW-1: target lock su TIE-1.",
+     "ships": [
+      3,
+      1
+     ],
+     "tokens": {
+      "lock": 1
+     }
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "round": 1,
+   "phase": "activation",
+   "active": 4,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "move",
+     "text": "XW-2 rivela 3 dritto ma l'asteroide blocca: manovra parziale, si ferma prima.",
+     "ships": [
+      4
+     ]
+    }
+   ],
+   "moves": [
+    {
+     "ship": 4,
+     "partial": true,
+     "from": {
+      "x": 580,
+      "y": 740,
+      "heading": 180
+     },
+     "to": {
+      "x": 610,
+      "y": 600,
+      "heading": 180
+     }
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "round": 1,
+   "phase": "activation",
+   "active": 4,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "action",
+     "text": "XW-2: azione focus.",
+     "ships": [
+      4
+     ],
+     "tokens": {
+      "focus": 1
+     }
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "round": 1,
+   "phase": "engagement",
+   "active": null,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "system",
+     "text": "Fase di ingaggio: si parte dall'iniziativa più alta (2)."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "round": 1,
+   "phase": "engagement",
+   "active": 3,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "attack",
+     "text": "XW-1 attacca TIE-1, gittata 2.",
+     "ships": [
+      3,
+      1
+     ],
+     "dice": {
+      "attack": [
+       "hit",
+       "hit",
+       "focus"
+      ],
+      "defence": [
+       "blank",
+       "evade"
+      ]
+     }
+    },
+    {
+     "tone": "damage",
+     "text": "1 danno: TIE-1 scende a 2 scafi.",
+     "ships": [
+      1
+     ]
+    }
+   ],
+   "highlight": {
+    "attackers": [
+     3
+    ],
+    "defenders": [
+     1
+    ]
+   }
+  },
+  {
+   "n": 13,
+   "round": 1,
+   "phase": "engagement",
+   "active": 4,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "attack",
+     "text": "XW-2 attacca TIE-2, gittata 3, attacco ostruito.",
+     "ships": [
+      4,
+      2
+     ],
+     "dice": {
+      "attack": [
+       "hit",
+       "blank"
+      ],
+      "defence": [
+       "evade",
+       "evade"
+      ]
+     }
+    },
+    {
+     "tone": "damage",
+     "text": "Nessun danno: i risultati sono annullati.",
+     "ships": [
+      2
+     ]
+    }
+   ],
+   "highlight": {
+    "attackers": [
+     4
+    ],
+    "defenders": [
+     2
+    ]
+   }
+  },
+  {
+   "n": 14,
+   "round": 1,
+   "phase": "engagement",
+   "active": 1,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "attack",
+     "text": "TIE-1 risponde su XW-1, gittata 2, spende il focus.",
+     "ships": [
+      1,
+      3
+     ],
+     "dice": {
+      "attack": [
+       "crit",
+       "hit",
+       "focus"
+      ],
+      "defence": [
+       "evade",
+       "blank"
+      ]
+     },
+     "tokens": {
+      "focus": -1
+     }
+    }
+   ],
+   "highlight": {
+    "attackers": [
+     1
+    ],
+    "defenders": [
+     3
+    ]
+   }
+  },
+  {
+   "n": 15,
+   "round": 1,
+   "phase": "engagement",
+   "active": null,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "damage",
+     "text": "2 danni: XW-1 perde 1 scudo e subisce 1 carta critica a faccia in su.",
+     "ships": [
+      3
+     ],
+     "tokens": {
+      "focus": -1
+     }
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "round": 1,
+   "phase": "engagement",
+   "active": 2,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {
+      "evade": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "attack",
+     "text": "TIE-2 attacca XW-2, gittata 3.",
+     "ships": [
+      2,
+      4
+     ],
+     "dice": {
+      "attack": [
+       "blank",
+       "hit"
+      ],
+      "defence": [
+       "evade",
+       "blank"
+      ]
+     }
+    },
+    {
+     "tone": "damage",
+     "text": "Nessun danno.",
+     "ships": [
+      4
+     ]
+    }
+   ],
+   "highlight": {
+    "attackers": [
+     2
+    ],
+    "defenders": [
+     4
+    ]
+   }
+  },
+  {
+   "n": 17,
+   "round": 1,
+   "phase": "engagement",
+   "active": null,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "system",
+     "text": "Fine fase di ingaggio: i token focus ed evade non spesi vengono rimossi.",
+     "tokens": {
+      "focus": -1,
+      "evade": -1
+     }
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "round": 2,
+   "phase": "planning",
+   "active": null,
+   "ships": [
+    {
+     "id": 1,
+     "x": 380,
+     "y": 250,
+     "heading": 0,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "system",
+     "text": "Inizio round 2."
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "round": 2,
+   "phase": "activation",
+   "active": 1,
+   "ships": [
+    {
+     "id": 1,
+     "x": 415,
+     "y": 330,
+     "heading": 20,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "move",
+     "text": "TIE-1: 2 dritto, si avvicina a XW-1.",
+     "ships": [
+      1
+     ]
+    }
+   ],
+   "moves": [
+    {
+     "ship": 1,
+     "partial": false,
+     "from": {
+      "x": 380,
+      "y": 250,
+      "heading": 0
+     },
+     "to": {
+      "x": 415,
+      "y": 330,
+      "heading": 20
+     }
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "round": 2,
+   "phase": "activation",
+   "active": 1,
+   "ships": [
+    {
+     "id": 1,
+     "x": 415,
+     "y": 330,
+     "heading": 20,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 370,
+     "y": 640,
+     "heading": 150,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "action",
+     "text": "TIE-1: focus.",
+     "ships": [
+      1
+     ],
+     "tokens": {
+      "focus": 1
+     }
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "round": 2,
+   "phase": "activation",
+   "active": 3,
+   "ships": [
+    {
+     "id": 1,
+     "x": 415,
+     "y": 330,
+     "heading": 20,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 415,
+     "y": 560,
+     "heading": 190,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {},
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "move",
+     "text": "XW-1: 1 virata sinistra, chiude il duello.",
+     "ships": [
+      3
+     ]
+    }
+   ],
+   "moves": [
+    {
+     "ship": 3,
+     "partial": false,
+     "from": {
+      "x": 370,
+      "y": 640,
+      "heading": 150
+     },
+     "to": {
+      "x": 415,
+      "y": 560,
+      "heading": 190
+     }
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "round": 2,
+   "phase": "activation",
+   "active": 3,
+   "ships": [
+    {
+     "id": 1,
+     "x": 415,
+     "y": 330,
+     "heading": 20,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 415,
+     "y": 560,
+     "heading": 190,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "action",
+     "text": "XW-1: focus.",
+     "ships": [
+      3
+     ],
+     "tokens": {
+      "focus": 1
+     }
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "round": 2,
+   "phase": "activation",
+   "active": 3,
+   "ships": [
+    {
+     "id": 1,
+     "x": 415,
+     "y": 330,
+     "heading": 20,
+     "hull": 2,
+     "shields": 0,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 415,
+     "y": 560,
+     "heading": 190,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {
+      "focus": 1
+     },
+     "lock": 1,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "attack",
+     "text": "XW-1 attacca TIE-1 a gittata 1, spende focus e lock.",
+     "ships": [
+      3,
+      1
+     ],
+     "dice": {
+      "attack": [
+       "hit",
+       "hit",
+       "crit",
+       "focus"
+      ],
+      "defence": [
+       "blank",
+       "evade"
+      ]
+     },
+     "tokens": {
+      "focus": -1,
+      "lock": -1
+     }
+    },
+    {
+     "tone": "damage",
+     "text": "3 danni su 2 scafi: TIE-1 è distrutto.",
+     "ships": [
+      1
+     ]
+    }
+   ],
+   "highlight": {
+    "attackers": [
+     3
+    ],
+    "defenders": [
+     1
+    ]
+   }
+  },
+  {
+   "n": 24,
+   "round": 2,
+   "phase": "activation",
+   "active": null,
+   "ships": [
+    {
+     "id": 1,
+     "x": 415,
+     "y": 330,
+     "heading": 20,
+     "hull": 0,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": false,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 415,
+     "y": 560,
+     "heading": 190,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "destroy",
+     "text": "TIE-1 rimosso dal tavolo.",
+     "ships": [
+      1
+     ]
+    },
+    {
+     "tone": "score",
+     "text": "I Ribelli segnano i punti di TIE-1 (22)."
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "round": 2,
+   "phase": "activation",
+   "active": null,
+   "ships": [
+    {
+     "id": 1,
+     "x": 415,
+     "y": 330,
+     "heading": 20,
+     "hull": 0,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": false,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 415,
+     "y": 560,
+     "heading": 190,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "score",
+     "text": "XW-1 è a metà scafi: l'Impero segna metà dei suoi punti (24).",
+     "ships": [
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "round": 2,
+   "phase": "game over",
+   "active": null,
+   "ships": [
+    {
+     "id": 1,
+     "x": 415,
+     "y": 330,
+     "heading": 20,
+     "hull": 0,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": false,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 2,
+     "x": 505,
+     "y": 255,
+     "heading": 340,
+     "hull": 3,
+     "shields": 0,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    },
+    {
+     "id": 3,
+     "x": 415,
+     "y": 560,
+     "heading": 190,
+     "hull": 4,
+     "shields": 1,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 1
+    },
+    {
+     "id": 4,
+     "x": 610,
+     "y": 600,
+     "heading": 180,
+     "hull": 4,
+     "shields": 2,
+     "tokens": {},
+     "lock": null,
+     "alive": true,
+     "damage": 0,
+     "crits": 0
+    }
+   ],
+   "events": [
+    {
+     "tone": "system",
+     "text": "Partita interrotta per il fixture: il viewer mostra lo stato finale."
+    },
+    {
+     "tone": "score",
+     "text": "Punteggio: Ribelli 46 — Impero 24."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "ship": "tieadvancedx1",
+ "variant": "default",
+ "kind": "default",
+ "objs": [
+  "/models-tts/tieadvancedx1/tieadvancedx1v2.obj"
+ ],
+ "tex": "/models-tts/tieadvancedx1/textures/1/tieadvancedx1blue.jpg",
+ "files": [
+  "top_e000_y000.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

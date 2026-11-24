@@ -1,0 +1,20 @@
+{
+ "ship": "tiebainterceptor",
+ "variant": "jank",
+ "kind": "pilot_skin",
+ "objs": [
+  "/models-tts/tiebainterceptor/TieBaron.obj"
+ ],
+ "tex": "/models-tts/tiebainterceptor/Textures/jank.jpg",
+ "files": [
+  "top_e000_y000.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}

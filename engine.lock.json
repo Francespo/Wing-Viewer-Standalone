@@ -1,0 +1,40 @@
+{
+  "engine": {
+    "repo": "https://github.com/Francespo/Wing-Engine.git",
+    "commit": "75bdd2a06a71bddb0d67a77bb594952b098a4e40",
+    "note": "Definitive unified engine: viewer-parity + main merged with zero feature loss. See Wing-Engine commit 75bdd2a0."
+  },
+  "schemas": {
+    "live": "wing-engine/live@1",
+    "replay": "wing-engine/replay@1",
+    "list": "wing-engine/list@1"
+  },
+  "supported_routes": [
+    "GET /api/health",
+    "GET /api/formats",
+    "GET,POST /api/squads",
+    "GET,DELETE /api/squads/{id}",
+    "GET /api/loadout-catalog",
+    "POST /api/xws/validate",
+    "GET /api/xws/catalog",
+    "POST /api/games",
+    "GET,DELETE /api/games/{id}",
+    "POST /api/games/{id}/answers",
+    "GET,POST /api/games/{id}/seat",
+    "POST /api/games/{id}/undo",
+    "GET /api/games/{id}/replay",
+    "POST /api/tournaments",
+    "GET /api/tournaments/{id}",
+    "GET /api/tournaments/{id}/standings",
+    "PUT /api/tournaments/{id}/players",
+    "POST /api/tournaments/{id}/rounds",
+    "POST /api/tournaments/{id}/rounds/{round}/results",
+    "POST,GET /api/tournaments/{id}/rounds/{round}/pairings/{pairing}/game"
+  ],
+  "replay_fixtures": {
+    "engine-seed7.json": "9f985d4e13c9b35ee08478439976f71a38069e60c876f340b496f9d55ebdbe37",
+    "aces-high.json": "2b84fd6cdeebc6a8b2c5a8c4b9c2966094e5132f7ec0ad414a89c9585f8cf842",
+    "epic-xwa.json": "edc2410d05f9e023ae579fc07ad74267131b48c210922ac7028caa11cd2c4870",
+    "epic-house.json": "f291d113bffbc5025d8db43349d2aef115dcfe5208d64890c1869d84edda60bc"
+  }
+}

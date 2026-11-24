@@ -1,0 +1,1059 @@
+{
+ "generated": "2026-11-22T12:52:29.305Z",
+ "obstacles": {
+  "Core1": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/Core1-model.obj",
+   "tex": null,
+   "bbox_units": [
+    2.216,
+    0.035,
+    2.739
+   ],
+   "bbox_mm": [
+    38.3,
+    0.6,
+    47.4
+   ],
+   "fit_mm": 40,
+   "variant": "Core1",
+   "win_mm": 57,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Core2": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/Core2-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.418,
+    0.035,
+    1.937
+   ],
+   "bbox_mm": [
+    24.5,
+    0.6,
+    33.5
+   ],
+   "fit_mm": 40,
+   "variant": "Core2",
+   "win_mm": 40,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Core3": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/Core3-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.712,
+    0.038,
+    1.449
+   ],
+   "bbox_mm": [
+    29.6,
+    0.7,
+    25.1
+   ],
+   "fit_mm": 40,
+   "variant": "Core3",
+   "win_mm": 36,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Core4": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/Core4-model.obj",
+   "tex": null,
+   "bbox_units": [
+    2.03,
+    0.04,
+    1.476
+   ],
+   "bbox_mm": [
+    35.1,
+    0.7,
+    25.5
+   ],
+   "fit_mm": 40,
+   "variant": "Core4",
+   "win_mm": 42,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Core5": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/Core5-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.689,
+    0.039,
+    1.769
+   ],
+   "bbox_mm": [
+    29.2,
+    0.7,
+    30.6
+   ],
+   "fit_mm": 40,
+   "variant": "Core5",
+   "win_mm": 37,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Core6": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/Core6-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.316,
+    0.035,
+    1.46
+   ],
+   "bbox_mm": [
+    22.8,
+    0.6,
+    25.3
+   ],
+   "fit_mm": 40,
+   "variant": "Core6",
+   "win_mm": 30,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Debris1": {
+   "kind": "debris_cloud",
+   "obj": "models/obstacles/Debris1-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.998,
+    0.082,
+    2.253
+   ],
+   "bbox_mm": [
+    34.5,
+    1.4,
+    39
+   ],
+   "fit_mm": 40,
+   "variant": "Debris1",
+   "win_mm": 47,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Debris2": {
+   "kind": "debris_cloud",
+   "obj": "models/obstacles/Debris2-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.447,
+    0.072,
+    2.208
+   ],
+   "bbox_mm": [
+    25,
+    1.3,
+    38.2
+   ],
+   "fit_mm": 40,
+   "variant": "Debris2",
+   "win_mm": 46,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Debris3": {
+   "kind": "debris_cloud",
+   "obj": "models/obstacles/Debris3-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.219,
+    0.083,
+    1.792
+   ],
+   "bbox_mm": [
+    21.1,
+    1.4,
+    31
+   ],
+   "fit_mm": 40,
+   "variant": "Debris3",
+   "win_mm": 37,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Debris4": {
+   "kind": "debris_cloud",
+   "obj": "models/obstacles/Debris4-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.671,
+    0.083,
+    1.985
+   ],
+   "bbox_mm": [
+    28.9,
+    1.4,
+    34.3
+   ],
+   "fit_mm": 40,
+   "variant": "Debris4",
+   "win_mm": 41,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Debris5": {
+   "kind": "debris_cloud",
+   "obj": "models/obstacles/Debris5-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.833,
+    0.083,
+    2.312
+   ],
+   "bbox_mm": [
+    31.7,
+    1.4,
+    40
+   ],
+   "fit_mm": 40,
+   "variant": "Debris5",
+   "win_mm": 48,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "Debris6": {
+   "kind": "debris_cloud",
+   "obj": "models/obstacles/Debris6-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.696,
+    0.083,
+    2.463
+   ],
+   "bbox_mm": [
+    29.3,
+    1.4,
+    42.6
+   ],
+   "fit_mm": 40,
+   "variant": "Debris6",
+   "win_mm": 51,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "GasCloud1": {
+   "kind": "gas_cloud",
+   "obj": "models/obstacles/GasCloud1-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.249,
+    0.058,
+    2.85
+   ],
+   "bbox_mm": [
+    21.6,
+    1,
+    49.3
+   ],
+   "fit_mm": 40,
+   "variant": "GasCloud1",
+   "win_mm": 59,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "GasCloud2": {
+   "kind": "gas_cloud",
+   "obj": "models/obstacles/GasCloud2-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.726,
+    0.061,
+    2.275
+   ],
+   "bbox_mm": [
+    29.8,
+    1,
+    39.3
+   ],
+   "fit_mm": 40,
+   "variant": "GasCloud2",
+   "win_mm": 47,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "GasCloud3": {
+   "kind": "gas_cloud",
+   "obj": "models/obstacles/GasCloud3-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.725,
+    0.06,
+    2.383
+   ],
+   "bbox_mm": [
+    29.8,
+    1,
+    41.2
+   ],
+   "fit_mm": 40,
+   "variant": "GasCloud3",
+   "win_mm": 49,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "GasCloud4": {
+   "kind": "gas_cloud",
+   "obj": "models/obstacles/GasCloud4-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.983,
+    0.073,
+    2.736
+   ],
+   "bbox_mm": [
+    34.3,
+    1.3,
+    47.3
+   ],
+   "fit_mm": 40,
+   "variant": "GasCloud4",
+   "win_mm": 57,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "GasCloud5": {
+   "kind": "gas_cloud",
+   "obj": "models/obstacles/GasCloud5-model.obj",
+   "tex": null,
+   "bbox_units": [
+    2.496,
+    0.03,
+    2.089
+   ],
+   "bbox_mm": [
+    43.2,
+    0.5,
+    36.1
+   ],
+   "fit_mm": 40,
+   "variant": "GasCloud5",
+   "win_mm": 52,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "GasCloud6": {
+   "kind": "gas_cloud",
+   "obj": "models/obstacles/GasCloud6-model.obj",
+   "tex": null,
+   "bbox_units": [
+    2.116,
+    0.028,
+    2.745
+   ],
+   "bbox_mm": [
+    36.6,
+    0.5,
+    47.5
+   ],
+   "fit_mm": 40,
+   "variant": "GasCloud6",
+   "win_mm": 57,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "LooseCargo": {
+   "kind": "loose_cargo",
+   "obj": "models/obstacles/LooseCargo.obj",
+   "tex": "models/obstacles/cargo.jpg",
+   "bbox_units": [
+    4.676,
+    0.041,
+    2.507
+   ],
+   "bbox_mm": [
+    80.9,
+    0.7,
+    43.4
+   ],
+   "fit_mm": 40,
+   "variant": "LooseCargo",
+   "win_mm": 97,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "PomDebris1": {
+   "kind": "debris_cloud",
+   "obj": "models/obstacles/PomDebris1.obj",
+   "tex": "models/obstacles/PomDebris1.png",
+   "bbox_units": [
+    0.819,
+    0.024,
+    0.973
+   ],
+   "bbox_mm": [
+    14.2,
+    0.4,
+    16.8
+   ],
+   "fit_mm": 40,
+   "variant": "PomDebris1",
+   "win_mm": 20,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "PomDebris2": {
+   "kind": "debris_cloud",
+   "obj": "models/obstacles/PomDebris2.obj",
+   "tex": "models/obstacles/PomDebris2.png",
+   "bbox_units": [
+    0.963,
+    0.023,
+    0.908
+   ],
+   "bbox_mm": [
+    16.7,
+    0.4,
+    15.7
+   ],
+   "fit_mm": 40,
+   "variant": "PomDebris2",
+   "win_mm": 20,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "PomDebris3": {
+   "kind": "debris_cloud",
+   "obj": "models/obstacles/PomDebris3.obj",
+   "tex": "models/obstacles/PomDebris3.png",
+   "bbox_units": [
+    0.62,
+    0.025,
+    0.986
+   ],
+   "bbox_mm": [
+    10.7,
+    0.4,
+    17
+   ],
+   "fit_mm": 40,
+   "variant": "PomDebris3",
+   "win_mm": 20,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "PomRock1": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/PomRock1.obj",
+   "tex": "models/obstacles/PomRock1.png",
+   "bbox_units": [
+    0.955,
+    0.024,
+    0.952
+   ],
+   "bbox_mm": [
+    16.5,
+    0.4,
+    16.5
+   ],
+   "fit_mm": 40,
+   "variant": "PomRock1",
+   "win_mm": 20,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "PomRock2": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/PomRock2.obj",
+   "tex": "models/obstacles/PomRock2.png",
+   "bbox_units": [
+    0.681,
+    0.023,
+    0.979
+   ],
+   "bbox_mm": [
+    11.8,
+    0.4,
+    16.9
+   ],
+   "fit_mm": 40,
+   "variant": "PomRock2",
+   "win_mm": 20,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "PomRock3": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/PomRock3.obj",
+   "tex": "models/obstacles/PomRock3.png",
+   "bbox_units": [
+    0.756,
+    0.024,
+    0.967
+   ],
+   "bbox_mm": [
+    13.1,
+    0.4,
+    16.7
+   ],
+   "fit_mm": 40,
+   "variant": "PomRock3",
+   "win_mm": 20,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "TFA1": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/TFA1-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.773,
+    0.03,
+    2.146
+   ],
+   "bbox_mm": [
+    30.7,
+    0.5,
+    37.1
+   ],
+   "fit_mm": 40,
+   "variant": "TFA1",
+   "win_mm": 45,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "TFA2": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/TFA2-model.obj",
+   "tex": null,
+   "bbox_units": [
+    2.533,
+    0.041,
+    2.497
+   ],
+   "bbox_mm": [
+    43.8,
+    0.7,
+    43.2
+   ],
+   "fit_mm": 40,
+   "variant": "TFA2",
+   "win_mm": 53,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "TFA3": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/TFA3-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.135,
+    0.015,
+    2.177
+   ],
+   "bbox_mm": [
+    19.6,
+    0.3,
+    37.6
+   ],
+   "fit_mm": 40,
+   "variant": "TFA3",
+   "win_mm": 45,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "TFA4": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/TFA4-model.obj",
+   "tex": null,
+   "bbox_units": [
+    0.767,
+    0.015,
+    1.686
+   ],
+   "bbox_mm": [
+    13.3,
+    0.3,
+    29.2
+   ],
+   "fit_mm": 40,
+   "variant": "TFA4",
+   "win_mm": 35,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "TFA5": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/TFA5-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.949,
+    0.015,
+    1.645
+   ],
+   "bbox_mm": [
+    33.7,
+    0.3,
+    28.5
+   ],
+   "fit_mm": 40,
+   "variant": "TFA5",
+   "win_mm": 40,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "TFA6": {
+   "kind": "asteroid",
+   "obj": "models/obstacles/TFA6-model.obj",
+   "tex": null,
+   "bbox_units": [
+    1.307,
+    0.017,
+    1.646
+   ],
+   "bbox_mm": [
+    22.6,
+    0.3,
+    28.5
+   ],
+   "fit_mm": 40,
+   "variant": "TFA6",
+   "win_mm": 34,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "debris-fields": {
+   "kind": "debris_cloud",
+   "obj": "models/obstacles/debris-fields-model.obj",
+   "tex": null,
+   "bbox_units": [
+    4.72,
+    0.04,
+    5.929
+   ],
+   "bbox_mm": [
+    81.6,
+    0.7,
+    102.5
+   ],
+   "fit_mm": 40,
+   "variant": "debris-fields",
+   "win_mm": 123,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "electrochaff": {
+   "kind": "electro_chaff_cloud",
+   "obj": "models/obstacles/electrochaff.obj",
+   "tex": "models/obstacles/chaff.jpg",
+   "bbox_units": [
+    4.31,
+    0.195,
+    12.308
+   ],
+   "bbox_mm": [
+    74.5,
+    3.4,
+    212.9
+   ],
+   "fit_mm": 40,
+   "variant": "electrochaff",
+   "win_mm": 255,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  },
+  "riggedcargo": {
+   "kind": "loose_cargo",
+   "obj": "models/obstacles/riggedcargo.obj",
+   "tex": "models/obstacles/riggedcargo.jpg",
+   "bbox_units": [
+    3.208,
+    0.025,
+    2.294
+   ],
+   "bbox_mm": [
+    55.5,
+    0.4,
+    39.7
+   ],
+   "fit_mm": 40,
+   "variant": "riggedcargo",
+   "win_mm": 67,
+   "ppm": 0,
+   "px": 512,
+   "files": [
+    "top.png",
+    "tilt_e030_y000.png",
+    "tilt_e030_y090.png",
+    "tilt_e030_y180.png",
+    "tilt_e030_y270.png",
+    "tilt_e060_y000.png",
+    "tilt_e060_y090.png",
+    "tilt_e060_y180.png",
+    "tilt_e060_y270.png"
+   ]
+  }
+ }
+}

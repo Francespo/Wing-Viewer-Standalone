@@ -1,0 +1,20 @@
+{
+ "ship": "t70xwing",
+ "variant": "mesh_t70_openv2",
+ "kind": "mesh_config",
+ "objs": [
+  "/models-tts/t70xwing/t70_openv2.obj"
+ ],
+ "tex": "/models-tts/t70xwing/Textures/PoeDameron.png",
+ "files": [
+  "top_e000_y000.png",
+  "tilt_e030_y000.png",
+  "tilt_e030_y090.png",
+  "tilt_e030_y180.png",
+  "tilt_e030_y270.png",
+  "tilt_e060_y000.png",
+  "tilt_e060_y090.png",
+  "tilt_e060_y180.png",
+  "tilt_e060_y270.png"
+ ]
+}
